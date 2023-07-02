@@ -14,6 +14,8 @@ specific" section.
     * [Language specific](#language-specific)
         * [Javascript/Typescript](#javascripttypescript)
             * [Javascript/Typescript Frameworks](#javascripttypescript-frameworks)
+        * [Python](#python)
+            * [Python Frameworks](#python-frameworks)
         * [C#](#c)
             * [C# Frameworks](#c-frameworks)
         * [PHP](#php)
@@ -153,6 +155,26 @@ specific" section.
       Storybook stories.
 * [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console)
     * Run React Native commands and makes RN coding easier.
+
+### Python
+
+* [Python Security](https://plugins.jetbrains.com/plugin/13609-python-security)
+    * Adds additional static code analysis inspections for Python.
+* [Python Annotations](https://plugins.jetbrains.com/plugin/12035-python-annotations)
+    * Provides quickfixes for common mistakes in type annotations.
+* [Pylint](https://plugins.jetbrains.com/plugin/11084-pylint)
+    * Adds pylint static code analysis integration into IDE.
+
+#### Python Frameworks
+
+* [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements)
+    * Improve work with requirements.txt file by adding syntax highlight, package version inspections, autocomplete etc.
+* [Django command runner](https://plugins.jetbrains.com/plugin/13834-django-command-runner)
+    * Simply run django management command from definition file.
+* [Odoo](https://plugins.jetbrains.com/plugin/13499-odoo)
+    * Provides Odoo framework support (code autocompletion, code navigation etc.)
+* [Odoo Autocompletion Support](https://plugins.jetbrains.com/plugin/13083-odoo-autocompletion-support)
+    * Provides enhanced autocompletion for Odoo addon/module.
 
 ### C#
 
