@@ -16,6 +16,8 @@ specific" section.
             * [Javascript/Typescript Frameworks](#javascripttypescript-frameworks)
         * [C#](#c)
             * [C# Frameworks](#c-frameworks)
+        * [PHP](#php)
+            * [PHP Frameworks](#php-frameworks)
     * [AI Code Completion](#ai-code-completion)
     * [Themes](#themes)
     * [Fun](#fun)
@@ -167,6 +169,28 @@ specific" section.
     * Analyzers for structured logging. Supports Serilog, NLog, and Microsoft.Extensions.Logging.
 * [MoqComplete](https://plugins.jetbrains.com/plugin/12659-moqcomplete)
     * Code completion for Moq.
+
+### PHP
+
+* [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
+    * Adds additional static code analysis inspections for PHP.
+* [PHP Toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
+    * Improves autocompletion for PHP and common used frameworks/libraries (Doctrine, Twig etc.)
+* [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
+    * Extends PhpStorm to support annotations in DocBlocks and provide additional Attributes features.
+* [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
+    * The plugin allows you to have auto-completion for PHP array keys inferred from other functions.
+
+#### PHP Frameworks
+
+* [Laravel Idea](https://plugins.jetbrains.com/plugin/13441-laravel-idea/reviews)
+    * Add support for Laravel framework.
+* [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
+    * Add support for Symfony framework.
+* [Yii2 Support](https://plugins.jetbrains.com/plugin/9388-yii2-support)
+    * Add support for Yii2 framework.
+* [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
+    * Autocompletion and code navigation for PHPUnit.
 
 ## AI Code Completion
 
