@@ -32,7 +32,7 @@ specific" section.
 * [HighlightBracketPair](https://plugins.jetbrains.com/plugin/17320-highlightbracketpair)
     * Highlights current bracket pair.
 * [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
-    * Allows to colorize comments and language keyword. Enables ability to reference source code in comments.
+    * Allows to colorize comments and language keyword. Enables ability to reference source code and files in comments.
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
     * Colorize nearly placed brackets.
 * [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
@@ -52,6 +52,8 @@ specific" section.
 
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
     * Plugin for SonarQube for static code analysis.
+* [Grazie Lite](https://plugins.jetbrains.com/plugin/12175-grazie-lite)
+    * Intelligent spelling and grammar checks for any text you write in the IDE.
 * [PDF Viewer](https://plugins.jetbrains.com/plugin/14494-pdf-viewer)
     * Allows to view PDF files in IDE.
 * [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv-editor)
@@ -108,6 +110,22 @@ specific" section.
       Storybook stories.
 * [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console)
     * Run React Native commands and makes RN coding easier.
+
+### C#
+
+* [Heap Allocations Viewer](https://plugins.jetbrains.com/plugin/9223-heap-allocations-viewer)
+    * Highlights local object allocations, boxing, delegates and closure creations points.
+* [Rossynt](https://plugins.jetbrains.com/plugin/16902-rossynt)
+    * Roslyn's syntax tree viewer for C#.
+
+#### C# Frameworks
+
+* [.NET Core User Secrets](https://plugins.jetbrains.com/plugin/10183--net-core-user-secrets)
+    * Adds the ability to create and open ASP.NET User Secrets.
+* [Structured Logging](https://plugins.jetbrains.com/plugin/12832-structured-logging)
+    * Analyzers for structured logging. Supports Serilog, NLog, and Microsoft.Extensions.Logging.
+* [MoqComplete](https://plugins.jetbrains.com/plugin/12659-moqcomplete)
+    * Code completion for Moq.
 
 ## AI Code Completion
 
