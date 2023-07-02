@@ -4,6 +4,21 @@ A curated list of Jetbrains plugins. Most of the plugins are compatible with all
 WebStorm, PhpStorm, Rider, CLion, RubyMine, GoLand, Aqua, Android Studio). IDE specific plugins are placed in "Language
 specific" section.
 
+* [Awesome Jetbrains Plugins](#awesome-jetbrains-plugins)
+    * [UI](#ui)
+    * [Code Editor](#code-editor)
+    * [Utilities](#utilities)
+    * [Tools](#tools)
+    * [Version Control](#version-control)
+    * [Language specific](#language-specific)
+        * [Javascript/Typescript](#javascripttypescript)
+            * [Javascript/Typescript Frameworks](#javascripttypescript-frameworks)
+        * [C#](#c)
+            * [C# Frameworks](#c-frameworks)
+    * [AI Code Completion](#ai-code-completion)
+    * [Themes](#themes)
+    * [Fun](#fun)
+
 ## UI
 
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
