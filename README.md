@@ -8,8 +8,9 @@ specific" section.
     * [UI](#ui)
     * [Code Editor](#code-editor)
     * [Utilities](#utilities)
-    * [Tools](#tools)
     * [Version Control](#version-control)
+    * [Tools](#tools)
+    * [Cloud/DevOps Tools](#clouddevops-tools)
     * [Language specific](#language-specific)
         * [Javascript/Typescript](#javascripttypescript)
             * [Javascript/Typescript Frameworks](#javascripttypescript-frameworks)
@@ -56,32 +57,13 @@ specific" section.
 ## Utilities
 
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
-    * Various tools to manipulate plain strings. For example, sorting, filtering, case switching etc.
+    * Various tools to manipulate plain strings. For example, sorting, filtering, case switching etc. You can add
+      shortcut for any operation, most usefull one would be shortcut to switch between cases.
 * [Json Helper](https://plugins.jetbrains.com/plugin/13873-json-helper)
     * Various tools to manipulate JSON. For example, json path searching, escape/unescape, uglify/prettify etc.
 * [Shifter](https://plugins.jetbrains.com/plugin/6149-shifter)
     * Various tools to manipulate code strings. For example, shifting keywords/quotes/string literals in array,
       incrementing/decrementing int strings etc.
-
-## Tools
-
-* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
-    * Plugin for SonarQube for static code analysis.
-* [Grazie Lite](https://plugins.jetbrains.com/plugin/12175-grazie-lite)
-    * Intelligent spelling and grammar checks for any text you write in the IDE.
-* [PDF Viewer](https://plugins.jetbrains.com/plugin/14494-pdf-viewer)
-    * Allows to view PDF files in IDE.
-* [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv-editor)
-    * Allows to edit CSV files in a colored table- & text-editor. It provides syntax-validation, highlighting,
-      customization, and plenty more besides.
-* [PlantUML Integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
-    * PlantUML diagramming tool integration, which allows to create diagrams from a plain text language.
-* [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
-    * Also to tail, filter, highlight etc. inside IDE terminal.
-* [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
-    * UI to validate and format JSON strings
-* [Easy I18n](https://plugins.jetbrains.com/plugin/16316-easy-i18n)
-    * Allows to edit translation files(json, yaml, properties) in a tree or table view.
 
 ## Version Control
 
@@ -96,6 +78,50 @@ specific" section.
 * [Conventional Commit](https://plugins.jetbrains.com/plugin/13389-conventional-commit)
     * Provides autocompletion for [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), also named
       semantic commits, inside the VCS Commit dialog.
+* [Azure DevOps](https://plugins.jetbrains.com/plugin/7981-azure-devops)
+    * Enable working with Git and TFVC repositories on Azure DevOps Services or Team Foundation Server(TFS).
+
+## Tools
+
+* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+    * Plugin for SonarQube for static code analysis.
+* [Grazie Lite](https://plugins.jetbrains.com/plugin/12175-grazie-lite)
+    * Intelligent spelling and grammar checks for any text you write in the IDE.
+* [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
+    * Also to tail, filter, highlight etc. inside IDE terminal.
+* [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
+    * UI to validate and format JSON strings
+* [PlantUML Integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
+    * PlantUML diagramming tool integration, which allows to create diagrams from a plain text language.
+* [PDF Viewer](https://plugins.jetbrains.com/plugin/14494-pdf-viewer)
+    * Allows to view PDF files in IDE.
+* [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv-editor)
+    * Allows to edit CSV files in a colored table- & text-editor. It provides syntax-validation, highlighting,
+      customization, and plenty more besides.
+* [Easy I18n](https://plugins.jetbrains.com/plugin/16316-easy-i18n)
+    * Allows to edit translation files(json, yaml, properties) in a tree or table view.
+* [.env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
+    * Allows to edit environment variables files with autocompletion and syntax highlighting.
+
+## Cloud/DevOps Tools
+
+* [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
+    * Adds integration with AWS into IDE - resource explorer, run/debug lambda, logs, s3 explorer etc.
+* [Azure Toolkit for Rider](https://plugins.jetbrains.com/plugin/11220-azure-toolkit-for-rider)
+    * Jetbrains plugin for integration with Azure into IDE - resource explorer, run/debug Azure Functions etc.
+* [Azure Toolkit for IntelliJ](https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij)
+    * Microsoft plugin for integration with Azure into IDE - resource explorer, run/debug Azure Functions etc.
+* [Application Insights Debug Log Viewer]()
+    * Show Azure Application Insights logs during application debug session.
+* [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes)
+    * Advanced editor for kubernetes and helm configs with runtime support for k8s cluster and pods (attaching pod
+      console, viewing logs etc).
+* [Terraform and HCL](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
+    * Add IDE capabilities for HCL and HIL files (autocomplete, syntax highlight etc).
+* [BashSupport Pro](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro)
+    * Add IDE capabilities for shell scripting (autocomplete, syntax highlight etc).
+* [PowerShell](https://plugins.jetbrains.com/plugin/10249-powershell)
+    * Add IDE capabilities for PowerShell scripting (autocomplete, syntax highlight etc).
 
 ## Language specific
 
@@ -145,7 +171,11 @@ specific" section.
 ## AI Code Completion
 
 * [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
+    * Enables GitHub Copilot integration with IDE.
 * [Tabnine AI Code Completion- JS Java Python TS Rust Go PHP & More](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more)
+    * Enables Tabnine integration with IDE.
+* [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
+    * Enables Amazon CodeWhisperer integration with IDE.
 
 ## Themes
 
