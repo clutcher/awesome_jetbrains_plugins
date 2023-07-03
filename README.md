@@ -72,6 +72,8 @@ list.
       shortcut for any operation, most usefull one would be shortcut to switch between cases.
 * [Json Helper](https://plugins.jetbrains.com/plugin/13873-json-helper)
     * Various tools to manipulate JSON. For example, json path searching, escape/unescape, uglify/prettify etc.
+* [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness)
+    * Generate and insert random numbers, strings, and UUIDs. Useful in unit tests.
 * [Shifter](https://plugins.jetbrains.com/plugin/6149-shifter)
     * Various tools to manipulate code strings. For example, shifting keywords/quotes/string literals in array,
       incrementing/decrementing int strings etc.
