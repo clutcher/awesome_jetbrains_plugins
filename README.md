@@ -197,6 +197,8 @@ list.
 
 ### Java
 
+* [Byte Code Analyzer](https://plugins.jetbrains.com/plugin/16970-byte-code-analyzer)
+    * Provides different views for .class files and contains additional tools for byte code analysis.
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
     * Generate POJO classes from JSON and other formats.
 * [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter)
