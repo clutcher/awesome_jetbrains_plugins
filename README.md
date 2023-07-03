@@ -70,6 +70,9 @@ list.
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
     * Various tools to manipulate plain strings. For example, sorting, filtering, case switching etc. You can add
       shortcut for any operation, most usefull one would be shortcut to switch between cases.
+* [Custom Postfix Templates](https://plugins.jetbrains.com/plugin/9862-custom-postfix-templates)
+    * Adds additional postfix autocompletion templates for various languages. By default, no templates are present. You
+      need to spend time to find out templates useful for your language/project and manually add them as "Web Template".
 * [Json Helper](https://plugins.jetbrains.com/plugin/13873-json-helper)
     * Various tools to manipulate JSON. For example, json path searching, escape/unescape, uglify/prettify etc.
 * [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness)
