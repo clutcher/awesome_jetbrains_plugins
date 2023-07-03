@@ -26,6 +26,7 @@ list.
             * [PHP Frameworks](#php-frameworks)
         * [C/C++](#cc)
         * [Rust](#rust)
+        * [Go](#go)
     * [AI Code Completion](#ai-code-completion)
     * [Themes](#themes)
     * [Fun](#fun)
@@ -256,7 +257,12 @@ list.
 ### Rust
 
 * [RON Extended Support](https://plugins.jetbrains.com/plugin/15878-ron-extended-support)
-    * Adds support for Rusty Object Notation files (code completion, syntax highlighting etc.)
+    * Adds support for Rusty Object Notation files (code completion, syntax highlighting etc).
+
+### Go
+
+* [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter/reviews)
+    * Provides golangci-lint inspection and autofix on-the-fly
 
 ## AI Code Completion
 
@@ -278,6 +284,7 @@ list.
 ## Fun
 
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+* [Gopher](https://plugins.jetbrains.com/plugin/12875-gopher)
 * [Waifu Motivator](https://plugins.jetbrains.com/plugin/13381-waifu-motivator)
 * [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)
