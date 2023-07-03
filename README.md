@@ -16,6 +16,8 @@ list.
     * [Language specific](#language-specific)
         * [Javascript/Typescript](#javascripttypescript)
             * [Javascript/Typescript Frameworks](#javascripttypescript-frameworks)
+        * [Java](#java)
+            * [Java Frameworks](#java-frameworks)
         * [Python](#python)
             * [Python Frameworks](#python-frameworks)
         * [C#](#c)
@@ -159,6 +161,26 @@ list.
       Storybook stories.
 * [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console)
     * Run React Native commands and makes RN coding easier.
+
+### Java
+
+* [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
+    * Generate POJO classes from JSON and other formats.
+* [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter)
+    * Generate setters on object. Useful for mappers and converters.
+* [Innerbuilder Generator](https://plugins.jetbrains.com/plugin/15615-innerbuilder-generator)
+    * Generates Builder class inside chosen one.
+
+#### Java Frameworks
+
+* [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
+    * Extends maven support with additional useful features, like analyzing and excluding dependencies.
+* [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
+    * Extends support for DB related tools(Hibernate, Spring Data, Flyway, MapStruct etc.) with additional inspections,
+      generation wizards, automatic generation of DB migrations etc.
+* [Spring Boot Helper](https://plugins.jetbrains.com/plugin/18622-spring-boot-helper)
+    * Extends support for Spring Boot - start initializr, autocomplete Spring Boot/Cloud configuration key/value, Spring
+      reference configuration, Spring metadata documentation.
 
 ### Python
 
