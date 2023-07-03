@@ -22,6 +22,8 @@ list.
             * [C# Frameworks](#c-frameworks)
         * [PHP](#php)
             * [PHP Frameworks](#php-frameworks)
+        * [C/C++](#cc)
+        * [Rust](#rust)
     * [AI Code Completion](#ai-code-completion)
     * [Themes](#themes)
     * [Fun](#fun)
@@ -215,6 +217,24 @@ list.
     * Add support for Yii2 framework.
 * [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
     * Autocompletion and code navigation for PHPUnit.
+
+### C/C++
+
+* [C/C++ Coverage](https://plugins.jetbrains.com/plugin/11031-c-c--coverage)
+    * C and C++ Line, Region and Branch Coverage gatherer for GCC and Clang.
+* [EzArgs](https://plugins.jetbrains.com/plugin/16411-ezargs)
+    * Provides option to pass arguments to C++ run configurations by simply writing them in dropdown box on the toolbar.
+* [Compiler Explorer](https://plugins.jetbrains.com/plugin/11064-compiler-explorer)
+    * Shows compilation results from a remote Compiler Explorer instance.
+* [Bazel for CLion](https://plugins.jetbrains.com/plugin/9554-bazel-for-clion)
+    * Google plugin to add support for Bazel build.
+* [CMake Plus]()
+    * Extend CMake language support (highlighting, code navigation, inspections etc).
+
+### Rust
+
+* [RON Extended Support](https://plugins.jetbrains.com/plugin/15878-ron-extended-support)
+    * Adds support for Rusty Object Notation files (code completion, syntax highlighting etc.)
 
 ## AI Code Completion
 
