@@ -2,7 +2,9 @@
 
 A curated list of Jetbrains plugins. Most of the plugins are compatible with all Jetbrains IDEs (IntelliJ IDEA, PyCharm,
 WebStorm, PhpStorm, Rider, CLion, RubyMine, GoLand, Aqua, Android Studio). IDE specific plugins are placed in "Language
-specific" section.
+specific" section. Also keep in mind, that all of Jetbrains IDEs have great out-of-the-box support for programming
+languages itself and major frameworks, which are enabled by default, so there is no sense to include them into this
+list.
 
 * [Awesome Jetbrains Plugins](#awesome-jetbrains-plugins)
     * [UI](#ui)
