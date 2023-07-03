@@ -129,6 +129,8 @@ list.
 * [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes)
     * Advanced editor for kubernetes and helm configs with runtime support for k8s cluster and pods (attaching pod
       console, viewing logs etc).
+* [Jenkins Control](https://plugins.jetbrains.com/plugin/6110-jenkins-control)
+    * Adds integration with Jenkins - trigger jobs, view job logs etc.
 * [Terraform and HCL](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
     * Add IDE capabilities for HCL and HIL files (autocomplete, syntax highlight etc).
 * [BashSupport Pro](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro)
