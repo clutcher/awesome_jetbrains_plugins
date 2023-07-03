@@ -12,7 +12,10 @@ list.
     * [Utilities](#utilities)
     * [Version Control](#version-control)
     * [Tools](#tools)
-    * [Cloud/DevOps Tools](#clouddevops-tools)
+        * [Additional file types support](#additional-file-types-support)
+        * [Integrations with other tools](#integrations-with-other-tools)
+        * [Miscellaneous](#miscellaneous)
+        * [Cloud/DevOps Tools](#clouddevops-tools)
     * [Language specific](#language-specific)
         * [Javascript/Typescript](#javascripttypescript)
             * [Javascript/Typescript Frameworks](#javascripttypescript-frameworks)
@@ -99,14 +102,8 @@ list.
 
 ## Tools
 
-* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
-    * Plugin for SonarQube for static code analysis.
-* [Grazie Lite](https://plugins.jetbrains.com/plugin/12175-grazie-lite)
-    * Intelligent spelling and grammar checks for any text you write in the IDE.
-* [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
-    * Also to tail, filter, highlight etc. inside IDE terminal.
-* [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
-    * UI to validate and format JSON strings
+### Additional file types support
+
 * [PlantUML Integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
     * PlantUML diagramming tool integration, which allows to create diagrams from a plain text language.
 * [PDF Viewer](https://plugins.jetbrains.com/plugin/14494-pdf-viewer)
@@ -118,8 +115,36 @@ list.
     * Allows to edit translation files(json, yaml, properties) in a tree or table view.
 * [.env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
     * Allows to edit environment variables files with autocompletion and syntax highlighting.
+* [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog)
+    * Interactive viewer for '.log' files with additional syntax highlighting.
+* [OpenCV Image Viewer](https://plugins.jetbrains.com/plugin/14371-opencv-image-viewer)
+    * Displays an OpenCV Image (ndarray or Mat) without stopping the debugger with additional tools.
 
-## Cloud/DevOps Tools
+### Integrations with other tools
+
+* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+    * Plugin for SonarQube for static code analysis.
+* [Gitlab Helper](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
+    * Adds integration with GitLab - mange Merge Requests, Pipelines etc.
+* [New Relic CodeStream: GitHub, GitLab, PRs and Code Review](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
+    * Adds integration with task management and version control tools(bitbucket, jira, gitlab, github etc.), which
+      allows to do everything from IDE. Also contains collaboration tools and integrations with Slack and Teams.
+      CodeStream itself and plugin are free, so it is definitely worth to try.
+
+### Miscellaneous
+
+* [Archive Browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
+    * Allows to browse files inside archives including nested archives. Nested .jar files are also supported.
+* [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
+    * Also to tail, filter, highlight etc. inside IDE terminal.
+* [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
+    * UI to validate and format JSON strings
+* [Multirun](https://plugins.jetbrains.com/plugin/7248-multirun)
+    * Group multiple run configurations and run them at once in a single click.
+* [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action)
+    * Register all run configuration as actions to assign shortcuts for them.
+
+### Cloud/DevOps Tools
 
 * [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
     * Adds integration with AWS into IDE - resource explorer, run/debug lambda, logs, s3 explorer etc.
