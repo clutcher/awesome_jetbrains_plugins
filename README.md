@@ -59,10 +59,12 @@ list.
       Visual Mode for selecting and manipulating blocks of text.
 * [AceJump](https://plugins.jetbrains.com/plugin/7086-acejump)
     * Allows to quickly navigate the caret to any position visible in the editor.
+* [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
+    * Shows cognitive complexity under methods.
+    * Allows to colorize comments and language keyword.
+    * Enables ability to reference source code and files in comments.
 * [HighlightBracketPair](https://plugins.jetbrains.com/plugin/17320-highlightbracketpair)
     * Highlights current bracket pair.
-* [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
-    * Allows to colorize comments and language keyword. Enables ability to reference source code and files in comments.
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
     * Colorize nearly placed brackets.
 * [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)

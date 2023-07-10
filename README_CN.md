@@ -51,10 +51,12 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
       具有三种模式：用于导航和编辑命令的普通模式、用于直接键入和编辑文本的插入模式以及用于选择和操作的可视模式文本块。
 * [AceJump](https://plugins.jetbrains.com/plugin/7086-acejump)
     * 允许将插入符号快速导航到编辑器中可见的任何位置。
+* [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
+    * 显示方法下的认知复杂性。
+    * 允许对评论和语言关键字进行着色。
+    * 能够在注释中引用源代码和文件。
 * [HighlightBracketPair](https://plugins.jetbrains.com/plugin/17320-highlightbracketpair)
     * 突出显示当前括号对。
-* [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
-    * 允许对评论和语言关键字进行着色。能够在注释中引用源代码和文件。
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
     * 为几乎放置的括号着色。
 * [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
