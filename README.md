@@ -40,8 +40,8 @@ list.
     * Helps to learn essential shortcuts while you are working. When you use the mouse on a button inside the IDE, the
       Key Promoter X shows you the keyboard shortcut that you should have used instead.
 * [Presentation Assistance](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
-    * Helps others to lear, which shortcuts you are using, by showing name and keyboard shortcuts of any action you
-      invoke. Usefully during screen sharing and pair programming.
+    * Helps others to learn, which shortcuts you are using, by showing name and keyboard shortcuts of any action you
+      invoke. Useful during screen sharing and pair programming.
 * [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
     * Adds 500+ icons for files like Travis YML, GitLab YML, Angular files, etc.
 * [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro)
@@ -74,7 +74,7 @@ list.
 
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
     * Various tools to manipulate plain strings. For example, sorting, filtering, case switching etc. You can add
-      shortcut for any operation, most usefull one would be shortcut to switch between cases.
+      shortcut for any operation, most useful one would be shortcut to switch between cases.
 * [Custom Postfix Templates](https://plugins.jetbrains.com/plugin/9862-custom-postfix-templates)
     * Adds additional postfix autocompletion templates for various languages. By default, no templates are present. You
       need to spend time to find out templates useful for your language/project and manually add them as "Web Template".

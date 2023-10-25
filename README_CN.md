@@ -35,7 +35,7 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
     * 帮助您在工作时学习基本的快捷方式。当您在 IDE 内的按钮上使用鼠标时，按键启动器 X 会显示您应该使用的键盘快捷键。
 * [Presentation Assistance](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
-    * 通过显示您调用的任何操作的名称和键盘快捷键，帮助其他人了解您正在使用哪些快捷键。在屏幕共享和结对编程期间很有用。
+  * 通过显示您调用的任何操作的名称和键盘快捷键，帮助其他人了解您正在使用哪些快捷键。 在屏幕共享和结对编程期间很有用。
 * [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
     * 为 Travis YML、GitLab YML、Angular 文件等文件添加 500 多个图标。
 * [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro)
@@ -65,7 +65,7 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 ## 公用事业
 
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
-    * 操作普通字符串的各种工具。例如，排序、过滤、大小写切换等。您可以为任何操作添加快捷方式，最有用的是在大小写之间切换的快捷方式。
+  * 操作普通字符串的各种工具。 例如，排序、过滤、大小写切换等。您可以为任何操作添加快捷方式，最有用的是在大小写之间切换的快捷方式。
 * [Custom Postfix Templates](https://plugins.jetbrains.com/plugin/9862-custom-postfix-templates)
     * 为各种语言添加额外的后缀自动完成模板。默认情况下，不存在任何模板。您需要花时间找出对您的语言/项目有用的模板，并手动将它们添加为“Web
       模板”。
