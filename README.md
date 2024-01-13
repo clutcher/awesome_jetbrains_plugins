@@ -46,6 +46,8 @@ list.
       quick scrolling letting you jump straight to sections of code.
 * [Extra ToolWindow Colorful Icons](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons)
     * Makes tool window icons colorful. Extremely helpful with "New UI".
+* [Icon Viewer 2](https://plugins.jetbrains.com/plugin/13995-icon-viewer-2)
+    * Show images as an icon in project explorer.
 
 ## Code Editor
 
@@ -115,6 +117,8 @@ list.
     * Interactive viewer for '.log' files with additional syntax highlighting.
 * [OpenCV Image Viewer](https://plugins.jetbrains.com/plugin/14371-opencv-image-viewer)
     * Displays an OpenCV Image (ndarray or Mat) without stopping the debugger with additional tools.
+* [BinEd - Binary/Hex Editor](https://plugins.jetbrains.com/plugin/9339-bined--binary-hex-editor)
+    * Allows to view and edit any file in binary/hex mode.
 
 ### Integrations with other tools
 
@@ -122,6 +126,10 @@ list.
     * Plugin for SonarQube for static code analysis.
 * [Gitlab Helper](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
     * Adds integration with GitLab - mange Merge Requests, Pipelines etc.
+* [Jira Integration](https://plugins.jetbrains.com/plugin/11169-jira-integration)
+    * Adds integration with Jira - view and update statuses of Jira issues from IDE.
+* [Bitbucket Pull Requests](https://plugins.jetbrains.com/plugin/13538-bitbucket-pull-requests)
+    * Adds integration with BitBucket - review PR in IDE, approve/decline/merge PRs etc.
 * [New Relic CodeStream: GitHub, GitLab, PRs and Code Review](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
     * Adds integration with task management and version control tools(bitbucket, jira, gitlab, github etc.), which
       allows to do everything from IDE. Also contains collaboration tools and integrations with Slack and Teams.
@@ -139,6 +147,8 @@ list.
     * Group multiple run configurations and run them at once in a single click.
 * [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action)
     * Register all run configuration as actions to assign shortcuts for them.
+* [Naming Is Hard](https://plugins.jetbrains.com/plugin/17272-naming-is-hard)
+    * Generates nice random names for new projects and modules.
 
 ### Cloud/DevOps Tools
 
@@ -171,6 +181,8 @@ list.
 * [Wallaby](https://plugins.jetbrains.com/plugin/15742-wallaby)
     * Intelligent test runner for JavaScript that continuously runs your tests. It reports code coverage and other
       results to your code editor immediately as you change your code.
+* [NPM Update Dependencies](https://plugins.jetbrains.com/plugin/21105-npm-update-dependencies)
+    * Highlights outdated versions in package.json and allows to update version in a single click.
 * [Run configuration for Typescript](https://plugins.jetbrains.com/plugin/10841-run-configuration-for-typescript)
     * Simplifies running of TS files.
 * [LogIt](https://plugins.jetbrains.com/plugin/13432-logit)
@@ -193,6 +205,8 @@ list.
 
 ### Java
 
+* [SpotBugs](https://plugins.jetbrains.com/plugin/14014-spotbugs)
+    * SpotBugs static code analysis, which is complementary to build in Intellij static analysis.
 * [Byte Code Analyzer](https://plugins.jetbrains.com/plugin/16970-byte-code-analyzer)
     * Provides different views for .class files and contains additional tools for byte code analysis.
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
@@ -206,6 +220,8 @@ list.
 
 * [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
     * Extends maven support with additional useful features, like analyzing and excluding dependencies.
+* [Maven Dependency Checker](https://plugins.jetbrains.com/plugin/18525-maven-dependency-checker)
+    * Check if there are newer versions of maven dependencies.
 * [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
     * Extends support for DB related tools(Hibernate, Spring Data, Flyway, MapStruct etc.) with additional inspections,
       generation wizards, automatic generation of DB migrations etc.
@@ -296,12 +312,16 @@ list.
 
 ## AI Code Completion
 
+* [AI Assistant](https://plugins.jetbrains.com/plugin/22282-ai-assistant)
+    * Jetbrains native AI integration.
 * [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
     * Enables GitHub Copilot integration with IDE.
 * [Tabnine AI Code Completion- JS Java Python TS Rust Go PHP & More](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more)
     * Enables Tabnine integration with IDE.
 * [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
     * Enables Amazon CodeWhisperer integration with IDE.
+* [CodiumAI](https://plugins.jetbrains.com/plugin/21206-codiumai--integrity-agent-powered-by-gpt-3-5-4)
+    * Enables CodiumAI integration with IDE.
 
 ## Themes
 
@@ -314,7 +334,7 @@ list.
 ## Fun
 
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+* [Cats Progress Bar](https://plugins.jetbrains.com/plugin/22740-cats-progress-bar)
 * [Gopher](https://plugins.jetbrains.com/plugin/12875-gopher)
-* [Waifu Motivator](https://plugins.jetbrains.com/plugin/13381-waifu-motivator)
 * [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)

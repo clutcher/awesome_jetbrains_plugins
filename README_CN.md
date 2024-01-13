@@ -40,6 +40,8 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 在编辑器窗格中显示缩小的源代码概述（类似于 Sublime Text）。小地图允许快速滚动，让您直接跳到鳕鱼的部分e.
 * [Extra ToolWindow Colorful Icons](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons)
     * 使工具窗口图标变得丰富多彩。对“新用户界面”非常有帮助。
+* [Icon Viewer 2](https://plugins.jetbrains.com/plugin/13995-icon-viewer-2)
+  * 在项目资源管理器中将图像显示为图标。
 
 ## 代码编辑器
 
@@ -103,6 +105,8 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * “.log”文件的交互式查看器，具有额外的语法突出显示功能。
 * [OpenCV Image Viewer](https://plugins.jetbrains.com/plugin/14371-opencv-image-viewer)
     * 显示 OpenCV 图像（ndarray 或 Mat），而无需使用其他工具停止调试器。
+* [BinEd - Binary/Hex Editor](https://plugins.jetbrains.com/plugin/9339-bined--binary-hex-editor)
+  * 允许以二进制/十六进制模式查看和编辑任何文件。
 
 ### 与其他工具集成
 
@@ -110,6 +114,10 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 用于静态代码分析的 SonarQube 插件。
 * [Gitlab Helper](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
     * 添加与 GitLab 的集成 - 管理合并请求、管道等。
+* [Jira Integration](https://plugins.jetbrains.com/plugin/11169-jira-integration)
+  * 添加与 Jira 的集成 - 从 IDE 查看和更新 Jira 问题的状态。
+* [Bitbucket Pull Requests](https://plugins.jetbrains.com/plugin/13538-bitbucket-pull-requests)
+  * 添加与 BitBucket 的集成 - 在 IDE 中审查 PR、批准/拒绝/合并 PR 等。
 * [New Relic CodeStream: GitHub, GitLab, PRs and Code Review](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
     * 添加与任务管理和版本控制工具（bitbucket、jira、gitlab、github 等）的集成，允许从 IDE 执行所有操作。还包含协作工具以及与
       Slack 和 Teams 的集成。 CodeStream 本身和插件都是免费的，因此绝对值得尝试。
@@ -126,6 +134,8 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 将多个运行配置分组并单击一次即可运行它们。
 * [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action)
     * 将所有运行配置注册为操作以为其分配快捷方式。
+* [Naming Is Hard](https://plugins.jetbrains.com/plugin/17272-naming-is-hard)
+  * 为新项目和模块生成漂亮的随机名称。
 
 ### 云/DevOps 工具
 
@@ -156,6 +166,8 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 编辑器内的 Javascript 游乐场。允许通过访问项目文件来动态编写和测试代码。
 * [Wallaby](https://plugins.jetbrains.com/plugin/15742-wallaby)
     * JavaScript 智能测试运行器可连续运行您的测试。当您更改代码时，它会立即向代码编辑器报告代码覆盖率和其他结果。
+* [NPM Update Dependencies](https://plugins.jetbrains.com/plugin/21105-npm-update-dependencies)
+  * 突出显示 package.json 中的过时版本，并允许单击更新版本。
 * [Run configuration for Typescript](https://plugins.jetbrains.com/plugin/10841-run-configuration-for-typescript)
     * 简化 TS 文件的运行。
 * [LogIt](https://plugins.jetbrains.com/plugin/13432-logit)
@@ -176,6 +188,8 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 ### Java
 
+* [SpotBugs](https://plugins.jetbrains.com/plugin/14014-spotbugs)
+  * SpotBugs 静态代码分析，它是对 Intellij 静态分析构建的补充。
 * [Byte Code Analyzer](https://plugins.jetbrains.com/plugin/16970-byte-code-analyzer)
     * 提供 .class 文件的不同视图，并包含用于字节码分析的附加工具。
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
@@ -189,6 +203,8 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 * [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
     * 通过其他有用的功能扩展 Maven 支持，例如分析和排除依赖项。
+* [Maven Dependency Checker](https://plugins.jetbrains.com/plugin/18525-maven-dependency-checker)
+  * 检查是否有较新版本的 Maven 依赖项。
 * [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
     * 通过附加检查、生成向导、自动生成数据库迁移等扩展对数据库相关工具（Hibernate、Spring Data、Flyway、MapStruct 等）的支持。
 * [Spring Boot Helper](https://plugins.jetbrains.com/plugin/18622-spring-boot-helper)
@@ -277,12 +293,16 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 ## 人工智能代码补全
 
+* [AI Assistant](https://plugins.jetbrains.com/plugin/22282-ai-assistant)
+  * Jetbrains 原生 AI 集成。
 * [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
     * 启用 GitHub Copilot 与 IDE 集成。
 * [Tabnine AI Code Completion- JS Java Python TS Rust Go PHP & More](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more)
     * 启用 Tabnine 与 IDE 集成。
 * [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
     * 启用 Amazon CodeWhisperer 与 IDE 集成。
+* [CodiumAI](https://plugins.jetbrains.com/plugin/21206-codiumai--integrity-agent-powered-by-gpt-3-5-4)
+  * 支持 CodiumAI 与 IDE 集成。
 
 ## 主题
 
@@ -295,7 +315,7 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 ## 玩笑
 
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+* [Cats Progress Bar](https://plugins.jetbrains.com/plugin/22740-cats-progress-bar)
 * [Gopher](https://plugins.jetbrains.com/plugin/12875-gopher)
-* [Waifu Motivator](https://plugins.jetbrains.com/plugin/13381-waifu-motivator)
 * [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)
