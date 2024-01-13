@@ -71,8 +71,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 操作 JSON 的各种工具。例如，json路径搜索、escape/unescape、uglify/prettify等。
 * [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness)
     * 生成并插入随机数、字符串和 UUID。在单元测试中很有用。
-* [Shifter](https://plugins.jetbrains.com/plugin/6149-shifter)
-    * 操作代码字符串的各种工具。例如，在数组中移动关键字/引号/字符串文字、递增/递减 int 字符串等。
 
 ## 版本控制
 
