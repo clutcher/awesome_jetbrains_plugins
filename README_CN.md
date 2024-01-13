@@ -34,8 +34,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
     * 帮助您在工作时学习基本的快捷方式。当您在 IDE 内的按钮上使用鼠标时，按键启动器 X 会显示您应该使用的键盘快捷键。
-* [Presentation Assistance](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
-  * 通过显示您调用的任何操作的名称和键盘快捷键，帮助其他人了解您正在使用哪些快捷键。 在屏幕共享和结对编程期间很有用。
 * [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
     * 为 Travis YML、GitLab YML、Angular 文件等文件添加 500 多个图标。
 * [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro)

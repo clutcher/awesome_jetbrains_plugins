@@ -39,9 +39,6 @@ list.
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
     * Helps to learn essential shortcuts while you are working. When you use the mouse on a button inside the IDE, the
       Key Promoter X shows you the keyboard shortcut that you should have used instead.
-* [Presentation Assistance](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
-    * Helps others to learn, which shortcuts you are using, by showing name and keyboard shortcuts of any action you
-      invoke. Useful during screen sharing and pair programming.
 * [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
     * Adds 500+ icons for files like Travis YML, GitLab YML, Angular files, etc.
 * [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro)
