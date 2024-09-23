@@ -103,7 +103,7 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 允许通过自动完成和语法突出显示来编辑环境变量文件。
 * [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog)
     * “.log”文件的交互式查看器，具有额外的语法突出显示功能。
-* [OpenCV Image Viewer](https://plugins.jetbrains.com/plugin/14371-opencv-image-viewer)
+* [Debug Image Viewer (former OpenCV Image Viewer)](https://plugins.jetbrains.com/plugin/14371-debug-image-viewer-former-opencv-image-viewer-)
     * 显示 OpenCV 图像（ndarray 或 Mat），而无需使用其他工具停止调试器。
 * [BinEd - Binary/Hex Editor](https://plugins.jetbrains.com/plugin/9339-bined--binary-hex-editor)
   * 允许以二进制/十六进制模式查看和编辑任何文件。
@@ -112,13 +112,13 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
     * 用于静态代码分析的 SonarQube 插件。
-* [Gitlab Helper](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
+* [GitLab Master](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
     * 添加与 GitLab 的集成 - 管理合并请求、管道等。
 * [Jira Integration](https://plugins.jetbrains.com/plugin/11169-jira-integration)
   * 添加与 Jira 的集成 - 从 IDE 查看和更新 Jira 问题的状态。
 * [Bitbucket Pull Requests](https://plugins.jetbrains.com/plugin/13538-bitbucket-pull-requests)
   * 添加与 BitBucket 的集成 - 在 IDE 中审查 PR、批准/拒绝/合并 PR 等。
-* [New Relic CodeStream: GitHub, GitLab, PRs and Code Review](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
+* [New Relic CodeStream](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
     * 添加与任务管理和版本控制工具（bitbucket、jira、gitlab、github 等）的集成，允许从 IDE 执行所有操作。还包含协作工具以及与
       Slack 和 Teams 的集成。 CodeStream 本身和插件都是免费的，因此绝对值得尝试。
 
@@ -126,6 +126,7 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 * [Archive Browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
     * 允许浏览存档内的文件，包括嵌套存档。还支持嵌套 .jar 文件。
+  * 它已经两年没有更新了，但是在最新版本的 IDE 中仍然可以很好地运行。
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
     * 还可以在 IDE 终端内进行拖尾、过滤、突出显示等操作。
 * [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
@@ -177,8 +178,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 * [GraphQL](https://plugins.jetbrains.com/plugin/8097-graphql)
     * 支持 GraphQL。模式感知补全、语法突出显示等。
-* [Angular Component Folding](https://plugins.jetbrains.com/plugin/10090-angular-component-folding)
-    * 将具有相同名称和不同扩展名的文件分组。
 * [IntelliVue](https://plugins.jetbrains.com/plugin/12014-intellivue)
     * 为 Vue 单文件组件提供分析、操作和实用程序。该插件在标准 Vue 插件之上添加了附加功能。
 * [React Buddy](https://plugins.jetbrains.com/plugin/17467-react-buddy)
@@ -188,16 +187,12 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 ### Java
 
-* [SpotBugs](https://plugins.jetbrains.com/plugin/14014-spotbugs)
-  * SpotBugs 静态代码分析，它是对 Intellij 静态分析构建的补充。
 * [Byte Code Analyzer](https://plugins.jetbrains.com/plugin/16970-byte-code-analyzer)
     * 提供 .class 文件的不同视图，并包含用于字节码分析的附加工具。
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
     * 从 JSON 和其他格式生成 POJO 类。
 * [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter)
     * 在对象上生成设置器。对于映射器和转换器很有用。
-* [Innerbuilder Generator](https://plugins.jetbrains.com/plugin/15615-innerbuilder-generator)
-    * 在所选类中生成 Builder 类。
 
 #### Java 构架
 
@@ -221,10 +216,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 #### Python 构架
 
-* [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements)
-    * 通过添加语法突出显示、包版本检查、自动完成等来改进 requests.txt 文件的工作。
-* [Django command runner](https://plugins.jetbrains.com/plugin/13834-django-command-runner)
-    * 只需从定义文件运行 django 管理命令即可。
 * [Odoo](https://plugins.jetbrains.com/plugin/13499-odoo)
     * 提供 Odoo 框架支持（代码自动完成、代码导航等）
 * [Odoo Autocompletion Support](https://plugins.jetbrains.com/plugin/13083-odoo-autocompletion-support)
@@ -236,11 +227,10 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 突出显示本地对象分配、装箱、委托和闭包创建点。
 * [Rossynt](https://plugins.jetbrains.com/plugin/16902-rossynt)
     * Roslyn 的 C# 语法树查看器。
+  * 目前不支持.NET 8，并且插件看起来已被废弃。
 
 #### C# 构架
 
-* [.NET Core User Secrets](https://plugins.jetbrains.com/plugin/10183--net-core-user-secrets)
-    * 添加了创建和打开 ASP.NET 用户机密的功能。
 * [Structured Logging](https://plugins.jetbrains.com/plugin/12832-structured-logging)
     * 用于结构化日志记录的分析器。支持 Serilog、NLog 和 Microsoft.Extensions.Logging。
 * [MoqComplete](https://plugins.jetbrains.com/plugin/12659-moqcomplete)
@@ -256,26 +246,26 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
     * 扩展 PhpStorm 以支持 DocBlocks 中的注释并提供额外的属性功能。
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
     * 该插件允许您自动完成从其他函数推断的 PHP 数组键。
+  * 它已经两年没有更新了，但是在最新版本的 IDE 中仍然可以很好地运行。
 
 #### PHP 构架
 
-* [Laravel Idea](https://plugins.jetbrains.com/plugin/13441-laravel-idea/reviews)
+* [Laravel Idea](https://plugins.jetbrains.com/plugin/13441-laravel-idea)
     * 添加对 Laravel 框架的支持。
 * [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
     * 添加对 Symfony 框架的支持。
-* [Yii2 Support](https://plugins.jetbrains.com/plugin/9388-yii2-support)
+* [Yii2 Framework Support](https://plugins.jetbrains.com/plugin/23693-yii2-framework-support/versions)
     * 添加对 Yii2 框架的支持。
 * [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
     * PHPUnit 的自动完成和代码导航。
 
 ### C/C++
 
-* [C/C++ Coverage](https://plugins.jetbrains.com/plugin/11031-c-c--coverage)
-    * GCC 和 Clang 的 C 和 C++ 线路、区域和分支覆盖率收集器。
 * [EzArgs](https://plugins.jetbrains.com/plugin/16411-ezargs)
     * 提供将参数传递给 C++ 运行配置的选项，只需将参数写入工具栏上的下拉框中即可。
 * [Compiler Explorer](https://plugins.jetbrains.com/plugin/11064-compiler-explorer)
     * 显示来自远程 Compiler Explorer 实例的编译结果。
+  * 目前无法与 CLion Nova 配合使用，因为 Jetbrains 没有提供任何迁移指南。
 * [Bazel for CLion](https://plugins.jetbrains.com/plugin/9554-bazel-for-clion)
     * Google 插件添加对 Bazel 构建的支持。
 * [CMake Plus]()
@@ -288,7 +278,7 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
 
 ### Go
 
-* [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter/reviews)
+* [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
     * 提供 golangci-lint 检查和动态自动修复
 
 ## 人工智能代码补全
@@ -297,25 +287,25 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE（Intel
   * Jetbrains 原生 AI 集成。
 * [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
     * 启用 GitHub Copilot 与 IDE 集成。
-* [Tabnine AI Code Completion- JS Java Python TS Rust Go PHP & More](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more)
+  * 目前它被认为是 Jetbrains IDE 中最有用的 AI。
+* [Tabnine: AI Code Completion & Chat in Java JS/TS Python & More](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more)
     * 启用 Tabnine 与 IDE 集成。
-* [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
+* [Amazon Q](https://plugins.jetbrains.com/plugin/24267-amazon-q/)
     * 启用 Amazon CodeWhisperer 与 IDE 集成。
-* [CodiumAI](https://plugins.jetbrains.com/plugin/21206-codiumai--integrity-agent-powered-by-gpt-3-5-4)
+* [Codiumate - Code, test and review with confidence - by CodiumAI](https://plugins.jetbrains.com/plugin/21206-codiumai--integrity-agent-powered-by-gpt-3-5-4)
   * 支持 CodiumAI 与 IDE 集成。
 
 ## 主题
 
-* [Material UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+* [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [Gerry Themes Pro](https://plugins.jetbrains.com/plugin/19668-gerry-themes-pro)
-* [Gruvbox - Theme](https://plugins.jetbrains.com/plugin/20558-gruvbox--theme)
 * [One Dark](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
-* [Nord](https://plugins.jetbrains.com/plugin/10321-nord)
 
 ## 玩笑
 
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 * [Cats Progress Bar](https://plugins.jetbrains.com/plugin/22740-cats-progress-bar)
 * [Gopher](https://plugins.jetbrains.com/plugin/12875-gopher)
+  * 它已经 3 年没有更新了，但是在最新版本的 IDE 中仍然可以运行良好。
 * [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)

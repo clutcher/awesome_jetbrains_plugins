@@ -115,7 +115,7 @@ list.
     * Allows to edit environment variables files with autocompletion and syntax highlighting.
 * [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog)
     * Interactive viewer for '.log' files with additional syntax highlighting.
-* [OpenCV Image Viewer](https://plugins.jetbrains.com/plugin/14371-opencv-image-viewer)
+* [Debug Image Viewer (former OpenCV Image Viewer)](https://plugins.jetbrains.com/plugin/14371-debug-image-viewer-former-opencv-image-viewer-)
     * Displays an OpenCV Image (ndarray or Mat) without stopping the debugger with additional tools.
 * [BinEd - Binary/Hex Editor](https://plugins.jetbrains.com/plugin/9339-bined--binary-hex-editor)
     * Allows to view and edit any file in binary/hex mode.
@@ -124,13 +124,13 @@ list.
 
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
     * Plugin for SonarQube for static code analysis.
-* [Gitlab Helper](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
+* [GitLab Master](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
     * Adds integration with GitLab - mange Merge Requests, Pipelines etc.
 * [Jira Integration](https://plugins.jetbrains.com/plugin/11169-jira-integration)
     * Adds integration with Jira - view and update statuses of Jira issues from IDE.
 * [Bitbucket Pull Requests](https://plugins.jetbrains.com/plugin/13538-bitbucket-pull-requests)
     * Adds integration with BitBucket - review PR in IDE, approve/decline/merge PRs etc.
-* [New Relic CodeStream: GitHub, GitLab, PRs and Code Review](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
+* [New Relic CodeStream](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
     * Adds integration with task management and version control tools(bitbucket, jira, gitlab, github etc.), which
       allows to do everything from IDE. Also contains collaboration tools and integrations with Slack and Teams.
       CodeStream itself and plugin are free, so it is definitely worth to try.
@@ -139,6 +139,7 @@ list.
 
 * [Archive Browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
     * Allows to browse files inside archives including nested archives. Nested .jar files are also supported.
+  * It was not updated for 2 years, but still works well in the newest version of IDE's.
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
     * Also to tail, filter, highlight etc. inside IDE terminal.
 * [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
@@ -192,8 +193,6 @@ list.
 
 * [GraphQL](https://plugins.jetbrains.com/plugin/8097-graphql)
     * Support for GraphQL. Schema-aware completion, syntax highlighting etc.
-* [Angular Component Folding](https://plugins.jetbrains.com/plugin/10090-angular-component-folding)
-    * Groups files which have same name and different extensions.
 * [IntelliVue](https://plugins.jetbrains.com/plugin/12014-intellivue)
     * Provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional
       functionality on top of the standard Vue plugin.
@@ -205,16 +204,12 @@ list.
 
 ### Java
 
-* [SpotBugs](https://plugins.jetbrains.com/plugin/14014-spotbugs)
-    * SpotBugs static code analysis, which is complementary to build in Intellij static analysis.
 * [Byte Code Analyzer](https://plugins.jetbrains.com/plugin/16970-byte-code-analyzer)
     * Provides different views for .class files and contains additional tools for byte code analysis.
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
     * Generate POJO classes from JSON and other formats.
 * [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter)
     * Generate setters on object. Useful for mappers and converters.
-* [Innerbuilder Generator](https://plugins.jetbrains.com/plugin/15615-innerbuilder-generator)
-    * Generates Builder class inside chosen one.
 
 #### Java Frameworks
 
@@ -240,10 +235,6 @@ list.
 
 #### Python Frameworks
 
-* [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements)
-    * Improve work with requirements.txt file by adding syntax highlight, package version inspections, autocomplete etc.
-* [Django command runner](https://plugins.jetbrains.com/plugin/13834-django-command-runner)
-    * Simply run django management command from definition file.
 * [Odoo](https://plugins.jetbrains.com/plugin/13499-odoo)
     * Provides Odoo framework support (code autocompletion, code navigation etc.)
 * [Odoo Autocompletion Support](https://plugins.jetbrains.com/plugin/13083-odoo-autocompletion-support)
@@ -255,11 +246,10 @@ list.
     * Highlights local object allocations, boxing, delegates and closure creations points.
 * [Rossynt](https://plugins.jetbrains.com/plugin/16902-rossynt)
     * Roslyn's syntax tree viewer for C#.
+  * Right now doesn't support .NET 8 and plugin looks abandoned.
 
 #### C# Frameworks
 
-* [.NET Core User Secrets](https://plugins.jetbrains.com/plugin/10183--net-core-user-secrets)
-    * Adds the ability to create and open ASP.NET User Secrets.
 * [Structured Logging](https://plugins.jetbrains.com/plugin/12832-structured-logging)
     * Analyzers for structured logging. Supports Serilog, NLog, and Microsoft.Extensions.Logging.
 * [MoqComplete](https://plugins.jetbrains.com/plugin/12659-moqcomplete)
@@ -275,30 +265,30 @@ list.
     * Extends PhpStorm to support annotations in DocBlocks and provide additional Attributes features.
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
     * The plugin allows you to have auto-completion for PHP array keys inferred from other functions.
+  * It was not updated for 2 years, but still works well in the newest version of IDE's.
 
 #### PHP Frameworks
 
-* [Laravel Idea](https://plugins.jetbrains.com/plugin/13441-laravel-idea/reviews)
+* [Laravel Idea](https://plugins.jetbrains.com/plugin/13441-laravel-idea)
     * Add support for Laravel framework.
 * [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
     * Add support for Symfony framework.
-* [Yii2 Support](https://plugins.jetbrains.com/plugin/9388-yii2-support)
+* [Yii2 Framework Support](https://plugins.jetbrains.com/plugin/23693-yii2-framework-support/versions)
     * Add support for Yii2 framework.
 * [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
     * Autocompletion and code navigation for PHPUnit.
 
 ### C/C++
 
-* [C/C++ Coverage](https://plugins.jetbrains.com/plugin/11031-c-c--coverage)
-    * C and C++ Line, Region and Branch Coverage gatherer for GCC and Clang.
 * [EzArgs](https://plugins.jetbrains.com/plugin/16411-ezargs)
     * Provides option to pass arguments to C++ run configurations by simply writing them in dropdown box on the toolbar.
 * [Compiler Explorer](https://plugins.jetbrains.com/plugin/11064-compiler-explorer)
     * Shows compilation results from a remote Compiler Explorer instance.
+  * Right now is not working with CLion Nova, as Jetbrains didn't provide any migration guides.
 * [Bazel for CLion](https://plugins.jetbrains.com/plugin/9554-bazel-for-clion)
     * Google plugin to add support for Bazel build.
 * [CMake Plus]()
-    * Extend CMake language support (highlighting, code navigation, inspections etc).
+    * Extend CMake language support (highlighting, code navigation, inspections etc.).
 
 ### Rust
 
@@ -307,7 +297,7 @@ list.
 
 ### Go
 
-* [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter/reviews)
+* [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
     * Provides golangci-lint inspection and autofix on-the-fly
 
 ## AI Code Completion
@@ -316,25 +306,25 @@ list.
     * Jetbrains native AI integration.
 * [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
     * Enables GitHub Copilot integration with IDE.
-* [Tabnine AI Code Completion- JS Java Python TS Rust Go PHP & More](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more)
+  * Right now it is considered as most useful AI in Jetbrains IDEs.
+* [Tabnine: AI Code Completion & Chat in Java JS/TS Python & More](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more)
     * Enables Tabnine integration with IDE.
-* [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
+* [Amazon Q](https://plugins.jetbrains.com/plugin/24267-amazon-q/)
     * Enables Amazon CodeWhisperer integration with IDE.
-* [CodiumAI](https://plugins.jetbrains.com/plugin/21206-codiumai--integrity-agent-powered-by-gpt-3-5-4)
+* [Codiumate - Code, test and review with confidence - by CodiumAI](https://plugins.jetbrains.com/plugin/21206-codiumai--integrity-agent-powered-by-gpt-3-5-4)
     * Enables CodiumAI integration with IDE.
 
 ## Themes
 
-* [Material UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+* [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [Gerry Themes Pro](https://plugins.jetbrains.com/plugin/19668-gerry-themes-pro)
-* [Gruvbox - Theme](https://plugins.jetbrains.com/plugin/20558-gruvbox--theme)
 * [One Dark](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
-* [Nord](https://plugins.jetbrains.com/plugin/10321-nord)
 
 ## Fun
 
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 * [Cats Progress Bar](https://plugins.jetbrains.com/plugin/22740-cats-progress-bar)
 * [Gopher](https://plugins.jetbrains.com/plugin/12875-gopher)
+    * It was not updated for 3 years, but still works well in the newest version of IDE's.
 * [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)
