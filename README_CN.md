@@ -58,8 +58,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
     * 突出显示当前括号对，包括 HTML/XML 标签。
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
     * 为几乎放置的括号着色。
-* [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
-    * 给凹痕上色。
 * [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
     * 添加对 Vim 的 Modal Editing 概念的支持。如果你愿意采用它，可以大大提高你的生产力。
     * 模态编辑是一个概念，其中文本编辑器的行为取决于它所处的当前模式。Vim 有三种模式：用于导航和编辑命令的正常模式、用于直接键入和编辑文本的插入模式以及用于选择和操作文本块的可视模式。
@@ -109,8 +107,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
     * 支持 GitHub、Bitbucket、GitLab、Azure 等。
 * [Find Pull Request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
     * 在右键单击时添加 Open In->Pull Request 操作，这会打开带有代码更改的 PR。
-* [Azure DevOps](https://plugins.jetbrains.com/plugin/7981-azure-devops)
-    * 允许在 Azure DevOps Services 或 Team Foundation Server(TFS) 上使用 Git 和 TFVC 存储库。
 * [Azd](https://plugins.jetbrains.com/plugin/22319-azd)
     * 用于与 Azure DevOps 集成的付费插件。比 Microsoft 的 Azure DevOps 插件工作得更好。
 
@@ -141,8 +137,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
     * 用于静态代码分析的 SonarQube 插件。
 * [GitHub Actions Manager](https://plugins.jetbrains.com/plugin/19347-github-actions-manager)
     * 直接在 IDE 中查看工作流程运行和状态。
-* [GitLab Master](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
-    * 添加与 GitLab 的完全集成 - 管理合并请求、管道等。
 * [GitLab Merge Requests](https://plugins.jetbrains.com/plugin/18689-gitlab-merge-requests)
     * 在 IDE 中查看 GitLab 合并请求。
 * [GitLab CICD - Pipelines & Jobs, Builds Run Cancel Retry View Log](https://plugins.jetbrains.com/plugin/22202-gitlab-cicd--pipelines--jobs-builds-run-cancel-retry-view-log)
@@ -151,10 +145,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
     * 添加与 Jira 的集成 - 从 IDE 查看和更新 Jira 问题的状态。
 * [Bitbucket Pull Requests](https://plugins.jetbrains.com/plugin/13538-bitbucket-pull-requests)
     * 添加与 BitBucket 的集成 - 在 IDE 中审查 PR、批准/拒绝/合并 PR 等。
-* [New Relic CodeStream](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
-    * 添加与任务管理和版本控制工具（bitbucket、jira、gitlab、GitHub 等）的集成，这
-      允许从 IDE 执行所有操作。还包含协作工具以及与 Slack 和 Teams 的集成。
-      CodeStream 本身和插件都是免费的，因此绝对值得尝试。
 
 ### 杂项
 
@@ -227,8 +217,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
     * 提供 .class 文件的不同视图，并包含用于字节码分析的附加工具。
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
     * 从 JSON 和其他格式生成 POJO 类。
-* [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter)
-    * 在对象上生成设置器。对于映射器和转换器很有用。
 * [JRebel and XRebel](https://plugins.jetbrains.com/plugin/4441-jrebel-and-xrebel)
     * 与 JRebel 热重载和 XRebel 性能分析器集成。
 * [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher)
@@ -269,10 +257,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
 
 ### Python
 
-* [Python Security](https://plugins.jetbrains.com/plugin/13609-python-security)
-    * 为 Python 添加额外的静态代码分析检查。
-* [Python Annotations](https://plugins.jetbrains.com/plugin/12035-python-annotations)
-    * 提供类型注释中常见错误的快速修复。
 * [Pylint](https://plugins.jetbrains.com/plugin/11084-pylint)
     * 将 pylint 静态代码分析集成添加到 IDE 中。
 
@@ -289,9 +273,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
 
 * [Heap Allocations Viewer](https://plugins.jetbrains.com/plugin/9223-heap-allocations-viewer)
     * 突出显示本地对象分配、装箱、委托和闭包创建点。
-* [Rossynt](https://plugins.jetbrains.com/plugin/16902-rossynt)
-    * Roslyn 的 C# 语法树查看器。
-    * 现在不支持 .NET 8，插件看起来已被废弃。
 
 #### C# 构架
 
@@ -304,8 +285,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
 
 * [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
     * 为 PHP 添加额外的静态代码分析检查。
-* [PHP Toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
-    * 改进了 PHP 和常用框架/库（Doctrine、Twig 等）的自动完成功能
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
     * 扩展 PhpStorm 以支持 DocBlock 中的注释，并提供其他属性功能。
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
@@ -326,8 +305,6 @@ Jetbrains 插件的精选列表。大多数插件与所有 Jetbrains IDE 兼容�
     * 免费插件，扩展了对 Magento 2 的支持。在最新版本的 IDE 中存在兼容性问题。
 * [Magento and Adobe Commerce PhpStorm by Atwix](https://plugins.jetbrains.com/plugin/20554-magento-and-adobe-commerce-phpstorm-by-atwix)
     * 免费增值插件，它通过检查和改进的导航扩展了对 Magento 2 的支持。
-* [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
-    * PHPUnit 的自动完成和代码导航。
 
 ### C/C++
 

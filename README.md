@@ -64,8 +64,6 @@ list.
     * Highlights current bracket pair, including HTML/XML tags.
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
     * Colorize nearly placed brackets.
-* [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
-    * Colorize the indentations.
 * [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
     * Adds support of Modal Editing concept from Vim. Can greatly increase your productivity, if you will adopt it.
     * Modal Editing is a concept where the behavior of a text editor depends on the current mode it is in. Vim has three
@@ -122,8 +120,6 @@ list.
     * Supports GitHub, Bitbucket, GitLab, Azure and others.
 * [Find Pull Request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
     * Adds Open In->Pull Request action on right click, which opens PR with code changes.
-* [Azure DevOps](https://plugins.jetbrains.com/plugin/7981-azure-devops)
-    * Enable working with Git and TFVC repositories on Azure DevOps Services or Team Foundation Server(TFS).
 * [Azd](https://plugins.jetbrains.com/plugin/22319-azd)
     * Paid plugin for integration with Azure DevOps. Works much better than Azure DevOps plugin from Microsoft.
 
@@ -155,8 +151,6 @@ list.
     * Plugin for SonarQube for static code analysis.
 * [GitHub Actions Manager](https://plugins.jetbrains.com/plugin/19347-github-actions-manager)
     * View workflow runs and statuses directly in IDE.
-* [GitLab Master](https://plugins.jetbrains.com/plugin/20347-gitlab-helper)
-    * Adds full integration with GitLab - manage Merge Requests, Pipelines etc.
 * [GitLab Merge Requests](https://plugins.jetbrains.com/plugin/18689-gitlab-merge-requests)
     * Review GitLab merge requests inside IDE.
 * [GitLab CICD - Pipelines & Jobs, Builds Run Cancel Retry View Log](https://plugins.jetbrains.com/plugin/22202-gitlab-cicd--pipelines--jobs-builds-run-cancel-retry-view-log)
@@ -165,10 +159,6 @@ list.
     * Adds integration with Jira - view and update statuses of Jira issues from IDE.
 * [Bitbucket Pull Requests](https://plugins.jetbrains.com/plugin/13538-bitbucket-pull-requests)
     * Adds integration with BitBucket - review PR in IDE, approve/decline/merge PRs etc.
-* [New Relic CodeStream](https://plugins.jetbrains.com/plugin/12206-new-relic-codestream-github-gitlab-prs-and-code-review)
-    * Adds integration with task management and version control tools(bitbucket, jira, gitlab, GitHub etc.), which
-      allows to do everything from IDE. Also contains collaboration tools and integrations with Slack and Teams.
-      CodeStream itself and plugin are free, so it is definitely worth to try.
 
 ### Miscellaneous
 
@@ -245,8 +235,6 @@ list.
     * Provides different views for .class files and contains additional tools for byte code analysis.
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
     * Generate POJO classes from JSON and other formats.
-* [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter)
-    * Generate setters on object. Useful for mappers and converters.
 * [JRebel and XRebel](https://plugins.jetbrains.com/plugin/4441-jrebel-and-xrebel)
     * Integrates with JRebel hot reload and XRebel performance profiler.
 * [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher)
@@ -289,10 +277,6 @@ list.
 
 ### Python
 
-* [Python Security](https://plugins.jetbrains.com/plugin/13609-python-security)
-    * Adds additional static code analysis inspections for Python.
-* [Python Annotations](https://plugins.jetbrains.com/plugin/12035-python-annotations)
-    * Provides quickfixes for common mistakes in type annotations.
 * [Pylint](https://plugins.jetbrains.com/plugin/11084-pylint)
     * Adds pylint static code analysis integration into IDE.
 
@@ -309,9 +293,6 @@ list.
 
 * [Heap Allocations Viewer](https://plugins.jetbrains.com/plugin/9223-heap-allocations-viewer)
     * Highlights local object allocations, boxing, delegates and closure creations points.
-* [Rossynt](https://plugins.jetbrains.com/plugin/16902-rossynt)
-    * Roslyn's syntax tree viewer for C#.
-    * Right now doesn't support .NET 8 and plugin looks abandoned.
 
 #### C# Frameworks
 
@@ -324,8 +305,6 @@ list.
 
 * [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
     * Adds additional static code analysis inspections for PHP.
-* [PHP Toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
-    * Improves autocompletion for PHP and common used frameworks/libraries (Doctrine, Twig etc.)
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
     * Extends PhpStorm to support annotations in DocBlocks and provide additional Attributes features.
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
@@ -346,8 +325,6 @@ list.
     * Free plugin, which extends support for Magento 2. Has compatibility issues in latest versions of IDE.
 * [Magento and Adobe Commerce PhpStorm by Atwix](https://plugins.jetbrains.com/plugin/20554-magento-and-adobe-commerce-phpstorm-by-atwix)
     * Freemium plugin, which extends support for Magento 2 with Inspections and improved Navigation.
-* [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
-    * Autocompletion and code navigation for PHPUnit.
 
 ### C/C++
 
