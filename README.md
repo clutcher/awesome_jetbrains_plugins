@@ -391,6 +391,8 @@ list.
     * Generate commit messages using LLM. Supports OpenAI, Anthropic, Gemini and a few others.
 * [Grazie Pro](https://plugins.jetbrains.com/plugin/16136-grazie-pro)
     * Jetbrains paid plugin for grammar and spell check. It also has translation functionality for eight languages.
+* [Sweep AI]([https://plugins.jetbrains.com/plugin/24267-amazon-q/](https://plugins.jetbrains.com/plugin/26860-sweep-ai))
+    * Cursor-like functionality in JetBrains (next-edit autocomplete and AI agent)
 
 ## Themes
 
