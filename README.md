@@ -32,6 +32,7 @@ list.
             * [PHP Frameworks](#php-frameworks)
         * [C/C++](#cc)
         * [Rust](#rust)
+        * [Go](#go)
     * [AI/LLM Integrations](#aillm-integrations)
     * [Themes](#themes)
     * [Fun](#fun)
@@ -41,15 +42,16 @@ list.
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
     * Helps to learn essential shortcuts while you are working. When you use the mouse on a button inside the IDE, the
       Key Promoter X shows you the keyboard shortcut that you should have used instead.
-* [Window Resizer](https://plugins.jetbrains.com/plugin/18045-window-resizer)
-    * Resize an IDE window. Useful during screensharing in messengers.
+* [Window Arranger](https://plugins.jetbrains.com/plugin/18045-window-arranger)
+    * Resize, arrange, and align IDE windows. Supports switching between projects and positioning windows
+      (left/right/top/bottom, maximize, horizontal/vertical alignment). Useful during screensharing.
 * [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
     * Adds 500+ icons for files like Travis YML, GitLab YML, Angular files, etc.
 * [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro)
     * Displays a zoomed out overview of source code into editor pane (similar to Sublime Text).
       The minimap allows for quick scrolling letting you jump straight to sections of code.
 * [Extra ToolWindow Colorful Icons](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons)
-    * Makes tool window icons colorful. Extremely helpful with "New UI".
+    * Makes tool window icons colorful. Includes multiple icon themes.
 * [Icon Viewer 2](https://plugins.jetbrains.com/plugin/13995-icon-viewer-2)
     * Show images as an icon in project explorer.
 
@@ -62,7 +64,8 @@ list.
 * [HighlightBracketPair](https://plugins.jetbrains.com/plugin/17320-highlightbracketpair)
     * Highlights current bracket pair, including HTML/XML tags.
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
-    * Colorize nearly placed brackets.
+    * Colorize closely placed brackets. Freemium plugin - basic features from older versions remain free, some advanced
+      features require payment.
 * [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
     * Adding support of Modal Editing concept from Vim. Can greatly increase your productivity if you adopt it.
     * Modal Editing is a concept where the behavior of a text editor depends on the current mode it is in. Vim has three
@@ -70,6 +73,8 @@ list.
       Visual Mode for selecting and manipulating blocks of text.
 * [IdeaVim-Quickscope](https://plugins.jetbrains.com/plugin/19417-ideavim-quickscope)
     * An always-on highlight for a unique character in every word on a line to help you use f, F for navigation.
+* [Which-Key](https://plugins.jetbrains.com/plugin/15976-which-key)
+    * IdeaVim extension that displays available keybindings in a popup as you type leader key sequences. Requires IdeaVim.
 * [AceJump](https://plugins.jetbrains.com/plugin/7086-acejump)
     * Allows quickly navigating the caret to any position visible in the editor.
 * [Kursor](https://plugins.jetbrains.com/plugin/22072-kursor)
@@ -79,9 +84,12 @@ list.
 
 * [Frame Switcher](https://plugins.jetbrains.com/plugin/7138-frame-switcher)
     * Switch between projects (would open a project if it was not yet opened).
+* [Projects Organizer](https://plugins.jetbrains.com/plugin/30429-projects-organizer)
+    * Turns the Recent Projects list into a structured catalog with nested groups, tags, favorites, linked projects,
+      notes, docs links, and fast search.
 * [Focus on Active Task](https://plugins.jetbrains.com/plugin/9824-focus-on-active-task)
     * Filters out not relevant files/paths in a project tree. Useful in a thousand files projects to limit visibility of files.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
 
 ## Utilities
 
@@ -95,20 +103,25 @@ list.
 * [Json Helper](https://plugins.jetbrains.com/plugin/13873-json-helper)
     * Various tools to manipulate JSON. For example, JSON path searching, escape/unescape, uglify/prettify etc.
 * [Randomness](https://plugins.jetbrains.com/plugin/9836-randomness)
-    * Generate and insert random numbers, strings, and UUIDs. Useful in unit tests.
+    * Generate and insert random numbers, strings, UUIDs, IP addresses, names, emails, phone numbers, and custom data
+      types. Useful in unit tests.
 * [Developer Tools](https://plugins.jetbrains.com/plugin/21904-developer-tools)
     * Provides UI inside IDE for commonly used tools, like JWT token decoder, RegExp checker, text diff, etc.
+* [EnvFile](https://plugins.jetbrains.com/plugin/7861-envfile)
+    * Sets environment variables for run configurations from .env, YAML, or JSON files. Complements ".env files support"
+      plugin which provides syntax highlighting.
 
 ## Version Control
 
 * [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore)
-    * Improve work with .gitignore file by adding syntax highlight, generate rules for .gitignore, entries inspection
-      etc.
+    * Improve work with .gitignore and other ignore files (.dockerignore, .npmignore, etc.) by adding syntax highlight,
+      generate rules, entries inspection etc.
 * [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
     * Improve work with git by enabling autocompletion, displaying various additional info, like number of ahead commits
-      etc., branches clean up, auto-fetch, and various other functions.
+      etc., branches clean up, auto-fetch, and various other functions. Freemium - newer features like inline blame
+      annotations require payment.
 * [GitLive](https://plugins.jetbrains.com/plugin/11955-gitlive)
-    * The main feature is real time merge conflict detection.
+    * The main feature is real time merge conflict detection. Also provides collaborator visibility and real-time diffs.
 * [Conventional Commit](https://plugins.jetbrains.com/plugin/13389-conventional-commit)
     * Provides autocompletion for [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), also named
       semantic commits, inside the VCS Commit dialog.
@@ -116,11 +129,16 @@ list.
     * Allows defining custom commit message template when conventional commit approach is not desired.
 * [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink)
     * Allows you to quickly generate links on git repo, which is handy for sharing code with others in corporate messenger.
-    * Supports GitHub, Bitbucket, GitLab, Azure and others.
+    * Supports GitHub, Bitbucket, GitLab, Azure, Gitea, Gerrit and others.
+* [Git Machete](https://plugins.jetbrains.com/plugin/14221-git-machete)
+    * Branch layout organizer and rebase/merge workflow automation tool. Shows tree-shaped graph of branches with
+      sync-to-parent and sync-to-remote status. Makes rebases/merges/pushes/pulls hassle-free with many branches.
 * [Find Pull Request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
     * Adds Open In->Pull Request action on right click, which opens PR with code changes.
     * Adds "List Pull Request" under "Annotate with Git Blame", which works similarly with showing PRs instead of commiters in gutter.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
+* [.gitattributes Support](https://plugins.jetbrains.com/plugin/26477--gitattributes-support)
+    * Adds syntax highlighting, keywords autocomplete, and pattern matching for .gitattributes files.
 * [Azd](https://plugins.jetbrains.com/plugin/22319-azd)
     * Paid plugin for integration with Azure DevOps. Works much better than Azure DevOps plugin from Microsoft.
 
@@ -139,6 +157,8 @@ list.
     * Allows editing translation files (JSON, YAML, properties) in a tree or table view.
 * [.env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
     * Allows editing environment variables files with autocompletion and syntax highlighting.
+* [Cron & Crontab Support](https://plugins.jetbrains.com/plugin/26412-cron--crontab-support)
+    * Highlights cron expression errors, translates cron syntax into plain English, and enables command execution from the IDE.
 * [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog)
     * Interactive viewer for '.log' files with additional syntax highlighting.
 * [Debug Image Viewer (former OpenCV Image Viewer)](https://plugins.jetbrains.com/plugin/14371-debug-image-viewer-former-opencv-image-viewer-)
@@ -149,13 +169,17 @@ list.
 ### Integrations with other tools
 
 * [SonarQube for IDE](https://plugins.jetbrains.com/plugin/7973-sonarqube-for-ide)
-    * Plugin for SonarQube for static code analysis.
+    * Plugin for SonarQube for static code analysis. Formerly known as SonarLint.
 * [GitHub Actions Manager](https://plugins.jetbrains.com/plugin/19347-github-actions-manager)
-    * View workflow runs and statuses directly in the IDE.
-* [GitLab Integration Pro](https://plugins.jetbrains.com/plugin/18689-gitlab-integration-pro)
-    * Review GitLab merge requests inside the IDE.
+    * Freemium plugin to view workflow runs, logs, and statuses directly in the IDE. Paid version adds manual workflow triggers,
+      artifacts download, deployment approval, and rerun/cancel jobs.
+* [JetLab - Integration for GitLab](https://plugins.jetbrains.com/plugin/18689-gitlab-integration-pro)
+    * Review GitLab merge requests inside the IDE. Formerly known as GitLab Integration Pro.
 * [GitLab CICD - Pipelines & Jobs, Builds Run Cancel Retry View Log](https://plugins.jetbrains.com/plugin/22202-gitlab-cicd--pipelines--jobs-builds-run-cancel-retry-view-log)
     * Allows viewing state and detailed information of pipelines/jobs from the IDE. Adds possibility to trigger pipelines/jobs, download logs and job artifacts.
+* [CI Aid for GitLab](https://plugins.jetbrains.com/plugin/25859-ci-aid-for-gitlab)
+    * GitLab CI YAML editing support - autocomplete, schema validation, navigation across elements, inspections, and
+      remote includes caching.
 * [Jira Integration](https://plugins.jetbrains.com/plugin/11169-jira-integration)
     * Adds integration with Jira - view and update statuses of Jira issues from the IDE.
 * [Bitbucket Integration Pro](https://plugins.jetbrains.com/plugin/13538-bitbucket-integration-pro)
@@ -165,18 +189,19 @@ list.
 
 * [Archive Browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
     * Allows browsing files inside archives including nested archives. Nested .jar files are also supported.
-    * It was not updated for 4 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
     * Also to tail, filter, highlight, etc. inside the IDE terminal.
 * [Native Terminal](https://plugins.jetbrains.com/plugin/9966-native-terminal)
     * Add a Terminal icon for fast open of project directories in your favorite terminal.
-* [Json Parser And Code Generation](https://plugins.jetbrains.com/plugin/10650-json-parser-and-code-generation)
-    * UI to validate and format JSON strings
+* [Json Parser & Code Gen](https://plugins.jetbrains.com/plugin/10650-json-parser--code-gen)
+    * UI to validate and format JSON strings. Also generates Dart and Kotlin code from JSON, loads JSON from web or local
+      files, and provides tree view navigation.
 * [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action)
     * Register all run configurations as actions to assign shortcuts for them.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
 * [Translation](https://plugins.jetbrains.com/plugin/8579-translation)
-    * Translates selected text on desired language.
+    * Translates selected text on desired language. Supports Google Translate, Microsoft Translate, and DeepL.
 
 ### Cloud/DevOps Tools
 
@@ -196,9 +221,10 @@ list.
 * [Jenkins Control](https://plugins.jetbrains.com/plugin/6110-jenkins-control)
     * Adds integration with Jenkins - trigger jobs, view job logs etc.
 * [Terraform and HCL](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
-    * Add IDE capabilities for HCL and HIL files (autocomplete, syntax highlight, etc.).
+    * Add IDE capabilities for HCL and HIL files (autocomplete, syntax highlight, etc.). Also supports OpenTofu and
+      Terragrunt.
 * [BashSupport Pro](https://plugins.jetbrains.com/plugin/13841-bashsupport-pro)
-    * Add IDE capabilities for shell scripting (autocomplete, syntax highlight, etc.).
+    * Add IDE capabilities for shell scripting (autocomplete, syntax highlight, etc.). Supports Bash, POSIX, and Zsh.
 * [PowerShell](https://plugins.jetbrains.com/plugin/10249-powershell)
     * Add IDE capabilities for PowerShell scripting (autocomplete, syntax highlight, etc.).
 
@@ -215,7 +241,7 @@ list.
     * Highlights outdated versions in package.json and allows to update a version in a single click.
 * [Run configuration for TypeScript](https://plugins.jetbrains.com/plugin/10841-run-configuration-for-typescript)
     * Simplifies running of TS files.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
 * [LogIt](https://plugins.jetbrains.com/plugin/13432-logit)
     * Inserts "console.log" function via shortcut.
 
@@ -228,7 +254,7 @@ list.
       functionality on top of the standard Vue plugin.
 * [React Buddy](https://plugins.jetbrains.com/plugin/17467-react-buddy)
     * Provides component palettes for MUI (MaterialUI), Ant Design, Chakra UI, Mantine. Helps to create and use
-      Storybook stories.
+      Storybook stories. Now bundled and maintained by JetBrains.
 * [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console)
     * Run React Native commands and makes RN coding easier.
 
@@ -240,13 +266,13 @@ list.
     * Provides different views for .class files and contains additional tools for byte code analysis.
 * [RoboPOJOGenerator](https://plugins.jetbrains.com/plugin/8634-robopojogenerator)
     * Generate POJO classes from JSON and other formats.
-* [JRebel and XRebel](https://plugins.jetbrains.com/plugin/4441-jrebel-and-xrebel)
+* [JRebel and XRebel for IntelliJ](https://plugins.jetbrains.com/plugin/4441-jrebel-and-xrebel)
     * Integrates with JRebel hot reload and XRebel performance profiler.
 * [Lightrun](https://plugins.jetbrains.com/plugin/16477-lightrun)
     * Adds functionality to dynamically inject logs, snapshots, and metrics into running applications without redeployments, enabling real-time debugging and monitoring directly from the IDE.
 * [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher)
     * Allows you to start VisualVM from the IDE.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
 * [MetricsTree](https://plugins.jetbrains.com/plugin/13959-metricstree)
     * Displays various code metrics for Java. Starting from simple Lines of Code ending with QMOOD quality attributes, Robert Martin metrics, etc.
 
@@ -254,10 +280,10 @@ list.
 
 * [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
     * Extends support for DB related tools (Hibernate, Spring Data, Flyway, MapStruct, etc.) with additional inspections,
-      generation wizards, automatic generation of DB migrations, etc.
+      generation wizards, automatic generation of DB migrations, etc. Acquired and maintained by JetBrains.
 * [Spring Boot Helper](https://plugins.jetbrains.com/plugin/18622-spring-boot-helper)
-    * Extends support for Spring Boot - start initializr, autocomplete Spring Boot/Cloud configuration key/value, Spring
-      reference configuration, Spring metadata documentation.
+    * Paid plugin that extends support for Spring Boot - autocomplete Spring Boot/Cloud configuration key/value, Spring
+      reference configuration, Spring metadata documentation, go to definition for properties.
 * [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
     * Extends maven support with additional useful features, like analyzing and excluding dependencies.
 * [Maven Dependency Checker](https://plugins.jetbrains.com/plugin/18525-maven-dependency-checker)
@@ -273,6 +299,9 @@ list.
     * Kotlin source code formatter. Useful if you are not satisfied with built-in formatter.
 * [detekt](https://plugins.jetbrains.com/plugin/10761-detekt)
     * Additional static code analysis for Kotlin.
+* [kotlin-fill-class](https://plugins.jetbrains.com/plugin/10942-kotlin-fill-class)
+    * Provides intention action to fill empty constructors or functions with default values. Useful for quickly creating
+      test objects.
 
 ### Android
 
@@ -319,21 +348,21 @@ list.
 * [PHP Toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
     * Improves autocompletion for PHP and commonly used frameworks/libraries (Doctrine, Twig, etc.)
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
-    * Extends PhpStorm to support annotations in DocBlocks and provide additional Attributes features.
+    * Extends PhpStorm to support annotations in DocBlocks and provide additional PHP 8 Attributes features.
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
     * The plugin allows you to have auto-completion for PHP array keys inferred from other functions.
-    * It was not updated for 4 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
 
 #### PHP Frameworks
 
 * [Whisperer For Laravel](https://plugins.jetbrains.com/plugin/26042-whisperer-for-laravel)
     * Adds enhanced autocompletion and code generation for models, migrations, controllers etc.
-* [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
+* [Symfony Plugin](https://plugins.jetbrains.com/plugin/7219-symfony-support)
     * Add support for a Symfony framework.
 * [Yii2 Framework Support](https://plugins.jetbrains.com/plugin/23693-yii2-framework-support)
     * Add support for a Yii2 framework.
 * [Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
-    * Free plugin, which extends support for Magento 2. Has compatibility issues in the latest versions of the IDE.
+    * Free plugin, which extends support for Magento 2.
 * [Magento and Adobe Commerce PhpStorm by Atwix](https://plugins.jetbrains.com/plugin/20554-magento-and-adobe-commerce-phpstorm-by-atwix)
     * Freemium plugin, which extends support for Magento 2 with Inspections and improved Navigation.
 
@@ -342,7 +371,7 @@ list.
 * [EzArgs](https://plugins.jetbrains.com/plugin/16411-ezargs)
     * Provides an option to pass arguments to C++ run configurations by simply writing them in the dropdown box on the toolbar.
 * [Bazel for CLion](https://plugins.jetbrains.com/plugin/9554-bazel-for-clion)
-    * Google plugin to add support for Bazel build.
+    * JetBrains plugin (formerly by Google) to add support for Bazel build.
 * [CMake Plus](https://plugins.jetbrains.com/plugin/12869-cmake-plus)
     * Extend CMake language support (highlighting, code navigation, inspections, etc.).
 ### Rust
@@ -351,26 +380,30 @@ list.
     * Adds support for Rusty Object Notation files (code completion, syntax highlighting, etc.).
 * [RustJson](https://plugins.jetbrains.com/plugin/22393-rustjson)
     * Converts JSON into Rust Struct.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
+    * It was not updated for a long time, but still works in the IDE.
+
+### Go
+
+All valuable Go plugins are now developed by JetBrains and are bundled into IDEs.
 
 ## AI/LLM Integrations
 
 * [JetBrains AI Assistant](https://plugins.jetbrains.com/plugin/22282-ai-assistant)
-    * Jetbrains native AI integration.
-* [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
-    * Enables GitHub Copilot integration with IDE.
-* [Tabnine: AI Chat & Autocomplete for JavaScript, Python & more](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-chat--autocomplete-for-javascript-python--more)
-    * Enables Tabnine integration with IDE.
+    * Jetbrains native AI integration. Free tier with unlimited code completion and local model support. Supports
+      bringing your own LLM via OpenAI-compatible API (Ollama, LM Studio, etc.).
+* [Junie](https://plugins.jetbrains.com/plugin/26104-junie-the-ai-coding-agent-by-jetbrains)
+    * JetBrains AI coding agent that handles tasks autonomously - writes code, runs tests, fixes bugs, and iterates on results.
+* [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot--your-ai-pair-programmer)
+    * Enables GitHub Copilot integration with IDE. Supports code completion, chat, code review, and agent mode.
+* [Claude Code](https://plugins.jetbrains.com/plugin/27310-claude-code-beta-)
+    * Integrates Claude Code AI assistant with the IDE. Requires Claude Code CLI installed separately.
+* [Gemini Code Assist](https://plugins.jetbrains.com/plugin/24198-gemini-code-assist)
+    * Google's AI coding assistant powered by Gemini models. Provides code completion, generation, and smart actions.
+      Free to use.
 * [Amazon Q](https://plugins.jetbrains.com/plugin/24267-amazon-q/)
-    * Enables Amazon CodeWhisperer integration with IDE.
-* [Qodo Gen](https://plugins.jetbrains.com/plugin/21206-qodo-gen)
-    * Enables Qodo (former CodiumAI) integration with IDE.
-* [Proxy AI](https://plugins.jetbrains.com/plugin/21056-proxy-ai)
-    * Integrates AI chat in the IDE. Support all major providers (OpenAI, Anthropic, Azure, Mistral, etc.)
-* [AI Commits](https://plugins.jetbrains.com/plugin/21335-ai-commits)
-    * Generate commit messages using LLM. Supports OpenAI, Anthropic, Gemini and a few others.
-* [Grazie Pro](https://plugins.jetbrains.com/plugin/16136-grazie-pro)
-    * Jetbrains paid plugin for grammar and spell check. It also has translation functionality for eight languages.
+    * Amazon's AI coding assistant (formerly CodeWhisperer). Provides code completion, chat, and security scanning.
+* [Lingma](https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant)
+    * Alibaba Cloud AI coding assistant. Provides code completion, multi-file editing, and chat capabilities.
 
 ## Themes
 
