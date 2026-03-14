@@ -80,10 +80,9 @@ list.
 
 * [Frame Switcher](https://plugins.jetbrains.com/plugin/7138-frame-switcher)
     * Switch between projects (would open a project if it was not yet opened).
-* [HarpoonIJ](https://plugins.jetbrains.com/plugin/20782-harpoonij)
-    * Simplifies code navigation by marking up to five frequently used files with access via hotkeys.
 * [Focus on Active Task](https://plugins.jetbrains.com/plugin/9824-focus-on-active-task)
     * Filters out not relevant files/paths in a project tree. Useful in a thousand files projects to limit visibility of files.
+    * It was not updated for 2 years, but still works well in the newest version of the IDE.
 
 ## Utilities
 
@@ -122,6 +121,7 @@ list.
 * [Find Pull Request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
     * Adds Open In->Pull Request action on right click, which opens PR with code changes.
     * Adds "List Pull Request" under "Annotate with Git Blame", which works similarly with showing PRs instead of commiters in gutter.
+    * It was not updated for 2 years, but still works well in the newest version of the IDE.
 * [Azd](https://plugins.jetbrains.com/plugin/22319-azd)
     * Paid plugin for integration with Azure DevOps. Works much better than Azure DevOps plugin from Microsoft.
 
@@ -166,19 +166,16 @@ list.
 
 * [Archive Browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
     * Allows browsing files inside archives including nested archives. Nested .jar files are also supported.
-    * It was not updated for 3 years, but still works well in the newest version of the IDE.
+    * It was not updated for 4 years, but still works well in the newest version of the IDE.
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
     * Also to tail, filter, highlight, etc. inside the IDE terminal.
 * [Native Terminal](https://plugins.jetbrains.com/plugin/9966-native-terminal)
     * Add a Terminal icon for fast open of project directories in your favorite terminal.
 * [Json Parser And Code Generation](https://plugins.jetbrains.com/plugin/10650-json-parser-and-code-generation)
     * UI to validate and format JSON strings
-* [Multirun](https://plugins.jetbrains.com/plugin/7248-multirun)
-    * Group multiple run configurations and run them at once in a single click.
 * [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action)
     * Register all run configurations as actions to assign shortcuts for them.
-* [Naming Is Hard](https://plugins.jetbrains.com/plugin/17272-naming-is-hard)
-    * Generates nice random names for new projects and modules.
+    * It was not updated for 2 years, but still works well in the newest version of the IDE.
 * [Translation](https://plugins.jetbrains.com/plugin/8579-translation)
     * Translates selected text on desired language.
 
@@ -219,6 +216,7 @@ list.
     * Highlights outdated versions in package.json and allows to update a version in a single click.
 * [Run configuration for TypeScript](https://plugins.jetbrains.com/plugin/10841-run-configuration-for-typescript)
     * Simplifies running of TS files.
+    * It was not updated for 2 years, but still works well in the newest version of the IDE.
 * [LogIt](https://plugins.jetbrains.com/plugin/13432-logit)
     * Inserts "console.log" function via shortcut.
 
@@ -226,8 +224,6 @@ list.
 
 * [GraphQL](https://plugins.jetbrains.com/plugin/8097-graphql)
     * Support for GraphQL. Schema-aware completion, syntax highlighting, etc.
-* [Angular Component Folding](https://plugins.jetbrains.com/plugin/10090-angular-component-folding)
-    * Groups files which have the same name and different extensions.
 * [IntelliVue](https://plugins.jetbrains.com/plugin/12014-intellivue)
     * Provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional
       functionality on top of the standard Vue plugin.
@@ -251,6 +247,7 @@ list.
     * Adds functionality to dynamically inject logs, snapshots, and metrics into running applications without redeployments, enabling real-time debugging and monitoring directly from the IDE.
 * [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher)
     * Allows you to start VisualVM from the IDE.
+    * It was not updated for 2 years, but still works well in the newest version of the IDE.
 * [MetricsTree](https://plugins.jetbrains.com/plugin/13959-metricstree)
     * Displays various code metrics for Java. Starting from simple Lines of Code ending with QMOOD quality attributes, Robert Martin metrics, etc.
 
@@ -268,8 +265,6 @@ list.
     * Check if there are newer versions of maven dependencies.
 * [Gradle Utilities](https://plugins.jetbrains.com/plugin/16800-gradle-utilities)
     * Lists all running Gradle daemons, checks the latest Gradle version, clear gradle caches, and other tools.
-* [Apidog Fast Request - Auto detect endpoints, HTTP REST Client](https://plugins.jetbrains.com/plugin/25925-apidog-fast-request--auto-detect-endpoints-http-rest-client)
-    * Allows executing requests to Spring controllers based on their implementation from nice UI inside the IDE.
 
 ### Kotlin
 
@@ -284,15 +279,14 @@ list.
 
 * [adb_idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
     * Add frequently used ADB commands into the IDE.
-* [ADB Tools](https://plugins.jetbrains.com/plugin/18153-adb-tools)
-    * Adds a wide range of ADB functionality. Useful when working with multiple devices.
 * [Compose Color Preview](https://plugins.jetbrains.com/plugin/21298-compose-color-preview)
     * Draws colors in gutter for Android Color.
 
 ### Python
 
-* [Pylint](https://plugins.jetbrains.com/plugin/11084-pylint)
+* [Pylint](https://plugins.jetbrains.com/plugin/26358-pylint)
     * Adds pylint static code analysis integration into the IDE.
+    * This is a rewrite/update of the [original Pylint plugin](https://plugins.jetbrains.com/plugin/11084-pylint).
 
 #### Python Frameworks
 
@@ -302,9 +296,6 @@ list.
     * Add autocompletion and refactoring for Pydantic models.
 * [Odoo](https://plugins.jetbrains.com/plugin/13499-odoo)
     * Provides Odoo framework support (code autocompletion, code navigation etc.)
-* [Odoo Autocompletion Support](https://plugins.jetbrains.com/plugin/13083-odoo-autocompletion-support)
-    * Provides enhanced autocompletion for Odoo addon/module.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
 * [Lets-Plot in SciView](https://plugins.jetbrains.com/plugin/14379-lets-plot-in-sciview)
     * Provides interactive scientific computing and data visualization.
 
@@ -328,7 +319,7 @@ list.
     * Extends PhpStorm to support annotations in DocBlocks and provide additional Attributes features.
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
     * The plugin allows you to have auto-completion for PHP array keys inferred from other functions.
-    * It was not updated for 2 years, but still works well in the newest version of the IDE.
+    * It was not updated for 4 years, but still works well in the newest version of the IDE.
 
 #### PHP Frameworks
 
@@ -336,8 +327,6 @@ list.
     * Add support for a Laravel framework.
 * [Whisperer For Laravel](https://plugins.jetbrains.com/plugin/26042-whisperer-for-laravel)
     * Adds enhanced autocompletion and code generation for models, migrations, controllers etc.
-* [Collector](https://plugins.jetbrains.com/plugin/15246-collector)
-    * Adds multiple refactorings for Laravel Collections.
 * [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
     * Add support for a Symfony framework.
 * [Yii2 Framework Support](https://plugins.jetbrains.com/plugin/23693-yii2-framework-support)
@@ -351,9 +340,6 @@ list.
 
 * [EzArgs](https://plugins.jetbrains.com/plugin/16411-ezargs)
     * Provides an option to pass arguments to C++ run configurations by simply writing them in the dropdown box on the toolbar.
-* [Compiler Explorer](https://plugins.jetbrains.com/plugin/11064-compiler-explorer)
-    * Shows compilation results from a remote Compiler Explorer instance.
-    * Right now is not working with CLion Nova, as Jetbrains didn't provide any migration guides.
 * [Bazel for CLion](https://plugins.jetbrains.com/plugin/9554-bazel-for-clion)
     * Google plugin to add support for Bazel build.
 * [CMake Plus](https://plugins.jetbrains.com/plugin/12869-cmake-plus)
@@ -363,10 +349,11 @@ list.
 
 ### Rust
 
-* [RON Extended Support](https://plugins.jetbrains.com/plugin/15878-ron-extended-support)
+* [RON Extended Support for Rust Rover](https://plugins.jetbrains.com/plugin/26307-ron-extended-support-for-rust-rover)
     * Adds support for Rusty Object Notation files (code completion, syntax highlighting, etc.).
 * [RustJson](https://plugins.jetbrains.com/plugin/22393-rustjson)
     * Converts JSON into Rust Struct.
+    * It was not updated for 2 years, but still works well in the newest version of the IDE.
 
 ### Go
 
@@ -411,9 +398,6 @@ list.
 * [Cats Progress Bar](https://plugins.jetbrains.com/plugin/22740-cats-progress-bar)
 * [YourProgressBar](https://plugins.jetbrains.com/plugin/21417-yourprogressbar)
     * Replace progress bar with custom image.
-* [Gopher](https://plugins.jetbrains.com/plugin/12875-gopher)
-    * It was not updated for 3 years, but still works well in the newest version of the IDE.
-* [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)
 * [Space Invaders](https://plugins.jetbrains.com/plugin/19383-space-invaders)
 * [Pets](https://plugins.jetbrains.com/plugin/21008-pets)

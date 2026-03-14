@@ -76,10 +76,9 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 * [Frame Switcher](https://plugins.jetbrains.com/plugin/7138-frame-switcher)
     * 在项目之间切换（如果项目尚未打开，则打开项目）。
-* [HarpoonIJ](https://plugins.jetbrains.com/plugin/20782-harpoonij)
-    * 通过标记最多五个可通过热键访问的常用文件来简化代码导航。
 * [Focus on Active Task](https://plugins.jetbrains.com/plugin/9824-focus-on-active-task)
     * 过滤掉项目树中不相关的文件/路径。在 1000 个文件项目中用于限制文件的可见性。
+    * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
 
 ## 实用程序
 
@@ -112,7 +111,8 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * 支持 GitHub、Bitbucket、GitLab、Azure 等。
 * [Find Pull Request](https://plugins.jetbrains.com/plugin/8262-find-pull-request)
     * 在右键单击时添加 Open In->Pull Request 操作，这会打开带有代码更改的 PR。
-    * 在“Annotate with Git Blame”下添加“List Pull Request”，其工作方式类似于在 gutter 中显示 PR 而不是提交者。
+    * 在”Annotate with Git Blame”下添加”List Pull Request”，其工作方式类似于在 gutter 中显示 PR 而不是提交者。
+    * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
 * [Azd](https://plugins.jetbrains.com/plugin/22319-azd)
     * 用于与 Azure DevOps 集成的付费插件。比 Microsoft 的 Azure DevOps 插件工作得更好。
 
@@ -157,19 +157,16 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 * [Archive Browser](https://plugins.jetbrains.com/plugin/9491-archive-browser)
     * 允许浏览档案中的文件，包括嵌套档案。还支持嵌套的 .jar 文件。
-    * 它已经 3 年没有更新了，但在最新版本的 IDE 中仍然运行良好。
+    * 它已经 4 年没有更新了，但在最新版本的 IDE 中仍然运行良好。
 * [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
     * 还可以在 IDE 终端内进行拖尾、过滤、突出显示等操作。
 * [Native Terminal](https://plugins.jetbrains.com/plugin/9966-native-terminal)
     * 添加一个终端图标，以便在您最喜欢的终端中快速打开项目目录。
 * [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser)
     * 用于验证和格式化 JSON 字符串的 UI
-* [Multirun](https://plugins.jetbrains.com/plugin/7248-multirun)
-    * 将多个运行配置分组并单击一次即可运行它们。
 * [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action)
     * 将所有运行配置注册为作，以便为其分配快捷方式。
-* [Naming Is Hard](https://plugins.jetbrains.com/plugin/17272-naming-is-hard)
-    * 为新项目和模块生成漂亮的随机名称。
+    * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
 * [Translation](https://plugins.jetbrains.com/plugin/8579-translation)
     * 将选定的文本翻译成所需的语言。
 
@@ -208,6 +205,7 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * 突出显示 package.json 中的过时版本，并允许单击更新版本。
 * [Run configuration for TypeScript](https://plugins.jetbrains.com/plugin/10841-run-configuration-for-typescript)
     * 简化 TS 文件的运行。
+    * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
 * [LogIt](https://plugins.jetbrains.com/plugin/13432-logit)
     * 通过快捷方式插入“console.log”功能。
 
@@ -215,8 +213,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 * [GraphQL](https://plugins.jetbrains.com/plugin/8097-graphql)
     * 支持 GraphQL。架构感知补全、语法高亮显示等。
-* [Angular Component Folding](https://plugins.jetbrains.com/plugin/10090-angular-component-folding)
-    * 对具有相同名称和不同扩展名的文件进行分组。
 * [IntelliVue](https://plugins.jetbrains.com/plugin/12014-intellivue)
     * 为 Vue 单文件组件提供分析、操作和实用程序。该插件在标准 Vue 插件之上添加了附加功能。
 * [React Buddy](https://plugins.jetbrains.com/plugin/17467-react-buddy)
@@ -238,6 +234,7 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * 添加了将日志、快照和指标动态注入正在运行的应用程序的功能，无需重新部署，从而可以直接从 IDE 进行实时调试和监控。
 * [VisualVM Launcher](https://plugins.jetbrains.com/plugin/7115-visualvm-launcher)
     * 允许您从 IDE 启动 VisualVM。
+    * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
 * [MetricsTree](https://plugins.jetbrains.com/plugin/13959-metricstree)
     * 显示 Java 的各种代码指标。从简单的代码行开始，以 QMOOD 质量属性、Robert Martin 指标等结尾。
 
@@ -253,8 +250,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * 检查是否有较新版本的 Maven 依赖项。
 * [Gradle Utilities](https://plugins.jetbrains.com/plugin/16800-gradle-utilities)
     * 列出所有正在运行的 Gradle 守护程序、检查最新的 Gradle 版本、清除 Gradle 缓存和其他工具。
-* [Apidog Fast Request - Auto detect endpoints, HTTP REST Client](https://plugins.jetbrains.com/plugin/25925-apidog-fast-request--auto-detect-endpoints-http-rest-client)
-    * 允许根据 IDE 中 nice UI 的实现对 Spring 控制器执行请求。
 
 ### Kotlin
 
@@ -269,15 +264,14 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 * [adb_idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
     * 将常用的 ADB 命令添加到 IDE 中。
-* [ADB Tools](https://plugins.jetbrains.com/plugin/18153-adb-tools)
-    * 添加了广泛的 ADB 功能。在使用多个设备时很有用。
 * [Compose Color Preview](https://plugins.jetbrains.com/plugin/21298-compose-color-preview)
     * 在 Android Color 的装订线中绘制颜色。
 
 ### Python
 
-* [Pylint](https://plugins.jetbrains.com/plugin/11084-pylint)
+* [Pylint](https://plugins.jetbrains.com/plugin/26358-pylint)
     * 将 pylint 静态代码分析集成添加到 IDE 中。
+    * 这是[原始 Pylint 插件](https://plugins.jetbrains.com/plugin/11084-pylint)的重写/更新。
 
 #### Python 构架
 
@@ -287,9 +281,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * 为 Pydantic 模型添加自动完成和重构。
 * [Odoo](https://plugins.jetbrains.com/plugin/13499-odoo)
     * 提供 Odoo 框架支持（代码自动完成、代码导航等）
-* [Odoo Autocompletion Support](https://plugins.jetbrains.com/plugin/13083-odoo-autocompletion-support)
-    * 为 Odoo 插件/模块提供增强的自动完成功能。
-    * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
 * [Lets-Plot in SciView](https://plugins.jetbrains.com/plugin/14379-lets-plot-in-sciview)
     * 提供交互式科学计算和数据可视化。
 
@@ -313,7 +304,7 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * 扩展 PhpStorm 以支持 DocBlock 中的注释，并提供其他属性功能。
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
     * 该插件允许您自动完成从其他函数推断的 PHP 数组键。
-    * 它已经 2 年没有更新了，但在最新版本的 IDE 中仍然运行良好。
+    * 它已经 4 年没有更新了，但在最新版本的 IDE 中仍然运行良好。
 
 #### PHP 构架
 
@@ -321,8 +312,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * 添加对 Laravel 框架的支持。
 * [Whisperer For Laravel](https://plugins.jetbrains.com/plugin/26042-whisperer-for-laravel)
     * 为模型、迁移、控制器等添加了增强的自动完成和代码生成。
-* [Collector](https://plugins.jetbrains.com/plugin/15246-collector)
-    * 为 Laravel Collections 添加多个重构。
 * [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
     * 添加对 Symfony 框架的支持。
 * [Yii2 Framework Support](https://plugins.jetbrains.com/plugin/23693-yii2-framework-support/versions)
@@ -336,9 +325,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 * [EzArgs](https://plugins.jetbrains.com/plugin/16411-ezargs)
     * 提供将参数传递给 C++ 运行配置的选项，只需将参数写入工具栏上的下拉框中即可。
-* [Compiler Explorer](https://plugins.jetbrains.com/plugin/11064-compiler-explorer)
-    * 显示来自远程 Compiler Explorer 实例的编译结果。
-    * 目前无法与 CLion Nova 一起使用，因为 Jetbrains 没有提供任何迁移指南。
 * [Bazel for CLion](https://plugins.jetbrains.com/plugin/9554-bazel-for-clion)
     * Google 插件添加对 Bazel 构建的支持。
 * [CMake Plus](https://plugins.jetbrains.com/plugin/12869-cmake-plus)
@@ -348,10 +334,11 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 ### Rust
 
-* [RON Extended Support](https://plugins.jetbrains.com/plugin/15878-ron-extended-support)
+* [RON Extended Support for Rust Rover](https://plugins.jetbrains.com/plugin/26307-ron-extended-support-for-rust-rover)
     * 添加对 Rusty Object Notation 文件（代码完成、语法高亮等）的支持。
 * [RustJson](https://plugins.jetbrains.com/plugin/22393-rustjson)
     * 将 JSON 转换为 Rust 结构体。
+    * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
 
 ### Go
 
@@ -396,9 +383,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 * [Cats Progress Bar](https://plugins.jetbrains.com/plugin/22740-cats-progress-bar)
 * [YourProgressBar](https://plugins.jetbrains.com/plugin/21417-yourprogressbar)
     * 将进度条替换为自定义图像。
-* [Gopher](https://plugins.jetbrains.com/plugin/12875-gopher)
-    * 它已经 3 年没有更新了，但在最新版本的 IDE 中仍然运行良好。
-* [Power Mode II](https://plugins.jetbrains.com/plugin/8251-power-mode-ii)
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)
 * [Space Invaders](https://plugins.jetbrains.com/plugin/19383-space-invaders)
 * [Pets](https://plugins.jetbrains.com/plugin/21008-pets)
