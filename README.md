@@ -32,7 +32,6 @@ list.
             * [PHP Frameworks](#php-frameworks)
         * [C/C++](#cc)
         * [Rust](#rust)
-        * [Go](#go)
     * [AI/LLM Integrations](#aillm-integrations)
     * [Themes](#themes)
     * [Fun](#fun)
@@ -323,8 +322,6 @@ list.
 
 #### PHP Frameworks
 
-* [Laravel Idea](https://plugins.jetbrains.com/plugin/13441-laravel-idea)
-    * Add support for a Laravel framework.
 * [Whisperer For Laravel](https://plugins.jetbrains.com/plugin/26042-whisperer-for-laravel)
     * Adds enhanced autocompletion and code generation for models, migrations, controllers etc.
 * [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
@@ -344,9 +341,6 @@ list.
     * Google plugin to add support for Bazel build.
 * [CMake Plus](https://plugins.jetbrains.com/plugin/12869-cmake-plus)
     * Extend CMake language support (highlighting, code navigation, inspections, etc.).
-* [Serial Port Monitor](https://plugins.jetbrains.com/plugin/8031-serial-port-monitor)
-    * Allows communicating with serial devices like Arduino from IDE.
-
 ### Rust
 
 * [RON Extended Support for Rust Rover](https://plugins.jetbrains.com/plugin/26307-ron-extended-support-for-rust-rover)
@@ -354,11 +348,6 @@ list.
 * [RustJson](https://plugins.jetbrains.com/plugin/22393-rustjson)
     * Converts JSON into Rust Struct.
     * It was not updated for 2 years, but still works well in the newest version of the IDE.
-
-### Go
-
-* [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
-    * Provides golangci-lint inspection and autofix on-the-fly
 
 ## AI/LLM Integrations
 

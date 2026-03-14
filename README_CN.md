@@ -32,7 +32,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
             * [PHP 构架](#php-构架)
         * [C/C++](#cc)
         * [Rust](#rust)
-        * [Go](#go)
     * [AI/LLM 集成](#aillm-集成)
     * [主题](#主题)
     * [有趣](#有趣)
@@ -308,8 +307,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 #### PHP 构架
 
-* [Laravel Idea](https://plugins.jetbrains.com/plugin/13441-laravel-idea)
-    * 添加对 Laravel 框架的支持。
 * [Whisperer For Laravel](https://plugins.jetbrains.com/plugin/26042-whisperer-for-laravel)
     * 为模型、迁移、控制器等添加了增强的自动完成和代码生成。
 * [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
@@ -329,9 +326,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
     * Google 插件添加对 Bazel 构建的支持。
 * [CMake Plus](https://plugins.jetbrains.com/plugin/12869-cmake-plus)
     * 扩展 CMake 语言支持（高亮显示、代码导航、检查等）。
-* [Serial Port Monitor](https://plugins.jetbrains.com/plugin/8031-serial-port-monitor)
-    * 允许从 IDE 与 Arduino 等串行设备通信。
-
 ### Rust
 
 * [RON Extended Support for Rust Rover](https://plugins.jetbrains.com/plugin/26307-ron-extended-support-for-rust-rover)
@@ -339,11 +333,6 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 * [RustJson](https://plugins.jetbrains.com/plugin/22393-rustjson)
     * 将 JSON 转换为 Rust 结构体。
     * 它 2 年没有更新，但在最新版本的 IDE 中仍然运行良好。
-
-### Go
-
-* [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
-    * 提供 golangci-lint 检查和动态自动修复
 
 ## AI/LLM 集成
 
