@@ -268,6 +268,8 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 ### Python
 
+* [Python Annotations](https://plugins.jetbrains.com/plugin/12035-python-annotations)
+    * 提供 Python 类型注释的检查和快速修复 — 简化 Union/Optional，现代化为 PEP 585/695 语法等。
 * [Pylint](https://plugins.jetbrains.com/plugin/26358-pylint)
     * 将 pylint 静态代码分析集成添加到 IDE 中。
     * 这是[原始 Pylint 插件](https://plugins.jetbrains.com/plugin/11084-pylint)的重写/更新。
@@ -299,6 +301,8 @@ languages 本身和主要框架，它们默认处于启用状态，因此将它�
 
 * [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
     * 为 PHP 添加额外的静态代码分析检查。
+* [PHP Toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
+    * 改进了 PHP 和常用框架/库（Doctrine、Twig 等）的自动完成功能。
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
     * 扩展 PhpStorm 以支持 DocBlock 中的注释，并提供其他属性功能。
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)

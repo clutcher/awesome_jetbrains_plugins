@@ -283,6 +283,8 @@ list.
 
 ### Python
 
+* [Python Annotations](https://plugins.jetbrains.com/plugin/12035-python-annotations)
+    * Provides inspections and quickfixes for Python type annotations — simplifies Union/Optional, modernizes to PEP 585/695 syntax, and more.
 * [Pylint](https://plugins.jetbrains.com/plugin/26358-pylint)
     * Adds pylint static code analysis integration into the IDE.
     * This is a rewrite/update of the [original Pylint plugin](https://plugins.jetbrains.com/plugin/11084-pylint).
@@ -314,6 +316,8 @@ list.
 
 * [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-)
     * Adds additional static code analysis inspections for PHP.
+* [PHP Toolbox](https://plugins.jetbrains.com/plugin/8133-php-toolbox)
+    * Improves autocompletion for PHP and commonly used frameworks/libraries (Doctrine, Twig, etc.)
 * [PHP Annotations](https://plugins.jetbrains.com/plugin/7320-php-annotations)
     * Extends PhpStorm to support annotations in DocBlocks and provide additional Attributes features.
 * [deep-assoc-completion](https://plugins.jetbrains.com/plugin/9927-deep-assoc-completion)
