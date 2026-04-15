@@ -182,6 +182,8 @@ list.
       remote includes caching.
 * [Jira Integration](https://plugins.jetbrains.com/plugin/11169-jira-integration)
     * Adds integration with Jira - view and update statuses of Jira issues from the IDE.
+* [ShopSavvy](https://github.com/shopsavvy/jetbrains-shopsavvy)
+    * Product price comparison inside the IDE. Search products, check prices by barcode or URL, and view offers sorted by price in a tool window.
 * [Bitbucket Integration Pro](https://plugins.jetbrains.com/plugin/13538-bitbucket-integration-pro)
     * Adds integration with BitBucket - review PR in IDE, approve/decline/merge PRs, etc.
 
