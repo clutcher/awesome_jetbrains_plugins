@@ -404,6 +404,8 @@ All valuable Go plugins are now developed by JetBrains and are bundled into IDEs
     * Amazon's AI coding assistant (formerly CodeWhisperer). Provides code completion, chat, and security scanning.
 * [Lingma](https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant)
     * Alibaba Cloud AI coding assistant. Provides code completion, multi-file editing, and chat capabilities.
+* [Explyt](https://plugins.jetbrains.com/plugin/27979-explyt-ai-agent)
+    * AI agent for JetBrains IDEs. Uses IDE tools such as the debugger, refactorings, symbol navigation, and static analysis.
 
 ## Themes
 

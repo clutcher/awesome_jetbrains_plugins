@@ -374,6 +374,8 @@ WebStorm、PhpStorm、Rider、CLion、RubyMine、GoLand、Aqua、Android Studio�
     * Amazon 的 AI 编码助手（前身为 CodeWhisperer）。提供代码补全、聊天和安全扫描。
 * [Lingma](https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant)
     * 阿里云 AI 编码助手。提供代码补全、多文件编辑和聊天功能。
+* [Explyt](https://plugins.jetbrains.com/plugin/27979-explyt-ai-agent)
+    * 面向 JetBrains IDE 的 AI 代理。使用调试器、重构、符号导航和静态分析等 IDE 工具。
 
 ## 主题
 
