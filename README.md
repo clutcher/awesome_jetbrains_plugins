@@ -284,6 +284,10 @@ list.
 * [Spring Boot Helper](https://plugins.jetbrains.com/plugin/18622-spring-boot-helper)
     * Paid plugin that extends support for Spring Boot - autocomplete Spring Boot/Cloud configuration key/value, Spring
       reference configuration, Spring metadata documentation, go to definition for properties.
+* [Spring Explyt](https://plugins.jetbrains.com/plugin/28675-spring-explyt)
+    * Free, open-source (Apache-2.0) Spring and Spring Boot support for IntelliJ IDEA Community Edition: bean
+      navigation and inspections backed by the application's real context (native context mode), a Spring debugger,
+      Swagger UI / `.http` client, Kotlin-specific Spring inspections, and Spring-aware MCP tools for AI agents.
 * [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
     * Extends maven support with additional useful features, like analyzing and excluding dependencies.
 * [Maven Dependency Checker](https://plugins.jetbrains.com/plugin/18525-maven-dependency-checker)
