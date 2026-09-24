@@ -404,6 +404,7 @@ All valuable Go plugins are now developed by JetBrains and are bundled into IDEs
     * Amazon's AI coding assistant (formerly CodeWhisperer). Provides code completion, chat, and security scanning.
 * [Lingma](https://plugins.jetbrains.com/plugin/17809-lingma--alibaba-cloud-ai-coding-assistant)
     * Alibaba Cloud AI coding assistant. Provides code completion, multi-file editing, and chat capabilities.
+* [Nano (XNO)](https://github.com/dhyabi2/openai-agents-nano-x402) — fee-free, instant, self-custodied XNO x402 settle rail for AI agents. The OpenAI Agents SDK has no Nano x402 payer today; this adapter wraps the existing fee-less402 client and the exact Nano x402 scheme so an OpenAI agent can pay any x402-priced HTTP endpoint in XNO from its own wallet.
 
 ## Themes
 
