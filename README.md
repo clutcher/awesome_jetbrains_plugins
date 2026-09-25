@@ -168,6 +168,8 @@ list.
 
 ### Integrations with other tools
 
+* [DarkMoon](https://plugins.jetbrains.com/plugin/34497-darkmoon)
+    * Autonomous AI pentest scanner integrated into the IDE; runs security scans on your project.
 * [SonarQube for IDE](https://plugins.jetbrains.com/plugin/7973-sonarqube-for-ide)
     * Plugin for SonarQube for static code analysis. Formerly known as SonarLint.
 * [GitHub Actions Manager](https://plugins.jetbrains.com/plugin/19347-github-actions-manager)
