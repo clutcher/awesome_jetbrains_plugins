@@ -1,11 +1,11 @@
-# Awesome Jetbrains Plugins
+# Awesome JetBrains Plugins
 
-Jetbrains 插件的精选列表。大多数插件都与所有 Jetbrains IDE（IntelliJ IDEA、PyCharm、
+JetBrains 插件的精选列表。大多数插件都与所有 JetBrains IDE（IntelliJ IDEA、PyCharm、
 WebStorm、PhpStorm、Rider、CLion、RubyMine、GoLand、Aqua、Android Studio）兼容。特定于 IDE 的插件放置在
-“特定语言”部分。另请记住，所有 Jetbrains IDE 都对编程语言本身和主要框架提供了出色的开箱即用支持，
+“特定语言”部分。另请记住，所有 JetBrains IDE 都对编程语言本身和主要框架提供了出色的开箱即用支持，
 它们默认处于启用状态，因此没有必要将它们包含在此列表中。
 
-* [Awesome Jetbrains Plugins](#awesome-jetbrains-plugins)
+* [Awesome JetBrains Plugins](#awesome-jetbrains-plugins)
     * [用户界面](#用户界面)
     * [代码编辑器](#代码编辑器)
     * [导航](#导航)
@@ -188,7 +188,7 @@ WebStorm、PhpStorm、Rider、CLion、RubyMine、GoLand、Aqua、Android Studio�
 * [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
     * 将与 AWS 的集成添加到 IDE 中 - 资源浏览器、运行/调试 lambda、日志、s3 浏览器等。
 * [Azure Toolkit for Rider](https://plugins.jetbrains.com/plugin/11220-azure-toolkit-for-rider)
-    * Jetbrains 插件，用于在 IDE 中集成 Azure 服务 - 资源浏览器、运行/调试 Azure Functions 等。
+    * JetBrains 插件，用于在 IDE 中集成 Azure 服务 - 资源浏览器、运行/调试 Azure Functions 等。
 * [Azure Toolkit for IntelliJ](https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij)
     * Microsoft 插件，用于在 IDE 中集成 Azure 服务 - 资源浏览器、运行/调试 Azure Functions 等。
 * [Application Insights Debug Log Viewer](https://plugins.jetbrains.com/plugin/13984-application-insights-debug-log-viewer)
@@ -361,7 +361,7 @@ WebStorm、PhpStorm、Rider、CLion、RubyMine、GoLand、Aqua、Android Studio�
 ## AI/LLM 集成
 
 * [JetBrains AI Assistant](https://plugins.jetbrains.com/plugin/22282-ai-assistant)
-    * Jetbrains 原生 AI 集成。免费层提供无限代码补全和本地模型支持。支持通过 OpenAI 兼容 API（Ollama、LM Studio 等）使用自己的 LLM。
+    * JetBrains 原生 AI 集成。免费层提供无限代码补全和本地模型支持。支持通过 OpenAI 兼容 API（Ollama、LM Studio 等）使用自己的 LLM。
 * [Junie](https://plugins.jetbrains.com/plugin/26104-junie-the-ai-coding-agent-by-jetbrains)
     * JetBrains AI 编码代理，可自主处理任务 - 编写代码、运行测试、修复错误并迭代结果。
 * [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot--your-ai-pair-programmer)

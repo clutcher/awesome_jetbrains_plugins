@@ -1,12 +1,12 @@
-# Awesome Jetbrains Plugins
+# Awesome JetBrains Plugins
 
-A curated list of Jetbrains plugins. Most of the plugins are compatible with all Jetbrains IDEs (IntelliJ IDEA, PyCharm,
+A curated list of JetBrains plugins. Most of the plugins are compatible with all JetBrains IDEs (IntelliJ IDEA, PyCharm,
 WebStorm, PhpStorm, Rider, CLion, RubyMine, GoLand, Aqua, Android Studio). IDE-specific plugins are placed in "Language
-specific" section. Also keep in mind that all of Jetbrains IDEs have great out-of-the-box support for programming
+specific" section. Also keep in mind that all of JetBrains IDEs have great out-of-the-box support for programming
 languages itself and major frameworks, which are enabled by default, so there is no sense to include them in this
 list.
 
-* [Awesome Jetbrains Plugins](#awesome-jetbrains-plugins)
+* [Awesome JetBrains Plugins](#awesome-jetbrains-plugins)
     * [UI](#ui)
     * [Code Editor](#code-editor)
     * [Navigation](#navigation)
@@ -208,7 +208,7 @@ list.
 * [AWS Toolkit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
     * Adds integration with AWS into IDE - resource explorer, run/debug lambda, logs, s3 explorer, etc.
 * [Azure Toolkit for Rider](https://plugins.jetbrains.com/plugin/11220-azure-toolkit-for-rider)
-    * Jetbrains plugin for integration with Azure into IDE - resource explorer, run/debug Azure Functions, etc.
+    * JetBrains plugin for integration with Azure into IDE - resource explorer, run/debug Azure Functions, etc.
 * [Azure Toolkit for IntelliJ](https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij)
     * Microsoft plugin for integration with Azure into IDE - resource explorer, run/debug Azure Functions, etc.
 * [Application Insights Debug Log Viewer](https://plugins.jetbrains.com/plugin/13984-application-insights-debug-log-viewer)
@@ -389,7 +389,7 @@ All valuable Go plugins are now developed by JetBrains and are bundled into IDEs
 ## AI/LLM Integrations
 
 * [JetBrains AI Assistant](https://plugins.jetbrains.com/plugin/22282-ai-assistant)
-    * Jetbrains native AI integration. Free tier with unlimited code completion and local model support. Supports
+    * JetBrains native AI integration. Free tier with unlimited code completion and local model support. Supports
       bringing your own LLM via OpenAI-compatible API (Ollama, LM Studio, etc.).
 * [Junie](https://plugins.jetbrains.com/plugin/26104-junie-the-ai-coding-agent-by-jetbrains)
     * JetBrains AI coding agent that handles tasks autonomously - writes code, runs tests, fixes bugs, and iterates on results.
