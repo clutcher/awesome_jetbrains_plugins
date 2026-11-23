@@ -397,3 +397,7 @@ WebStorm、PhpStorm、Rider、CLion、RubyMine、GoLand、Aqua、Android Studio�
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)
 * [Space Invaders](https://plugins.jetbrains.com/plugin/19383-space-invaders)
 * [Pets](https://plugins.jetbrains.com/plugin/21008-pets)
+
+## 维护者
+
+由 [Igor Zarvanskyi](https://clutcher.dev) 维护，他是 [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights) 插件和 [Laminar Software Design](https://clutcher.dev/book/laminar-software-design/) 一书的作者。

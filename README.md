@@ -427,3 +427,7 @@ All valuable Go plugins are now developed by JetBrains and are bundled into IDEs
 * [Anime Memes](https://plugins.jetbrains.com/plugin/15865-anime-memes)
 * [Space Invaders](https://plugins.jetbrains.com/plugin/19383-space-invaders)
 * [Pets](https://plugins.jetbrains.com/plugin/21008-pets)
+
+## Maintainer
+
+Maintained by [Igor Zarvanskyi](https://clutcher.dev), the author of the [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights) plugin and of the book [Laminar Software Design](https://clutcher.dev/book/laminar-software-design/).
