@@ -1,7 +1,7 @@
 # Awesome JetBrains Plugins
 
 JetBrains 插件的精选列表。大多数插件都与所有 JetBrains IDE（IntelliJ IDEA、PyCharm、
-WebStorm、PhpStorm、Rider、CLion、RubyMine、GoLand、Aqua、Android Studio）兼容。特定于 IDE 的插件放置在
+WebStorm、PhpStorm、Rider、CLion、RubyMine、GoLand、RustRover、DataGrip、Android Studio）兼容。特定于 IDE 的插件放置在
 “特定语言”部分。另请记住，所有 JetBrains IDE 都对编程语言本身和主要框架提供了出色的开箱即用支持，
 它们默认处于启用状态，因此没有必要将它们包含在此列表中。
 
